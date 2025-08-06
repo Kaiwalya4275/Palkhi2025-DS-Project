@@ -1,0 +1,49 @@
+<!-- pages/volunteers.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Volunteers Dashboard</title>
+  <link rel="stylesheet" href="../css/dindis.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <header>
+    <h1>Volunteers Dashboard</h1>
+    <p class="subtitle">Detailed Overview of Volunteer Contributions</p>
+  </header>
+
+  <section class="table-container">
+    <h2 style="text-align:center;">Volunteers Overview</h2>
+    <table id="volunteersTable">
+      <thead>
+        <tr>
+          <th>ID</th><th>Name</th><th>Age</th><th>Gender</th><th>Village</th>
+          <th>Team</th><th>Role</th><th>Days</th><th>Senior</th><th>Daily Hrs</th>
+          <th>Tasks</th><th>Flags</th><th>Languages</th><th>Certs</th>
+          <th>Availability</th><th>Motivation</th><th>Leader</th><th>Contact</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="chart-box">
+    <h2 style="text-align:center;">Volunteer Insights</h2>
+    <canvas id="genderChart"></canvas>
+    <br><br>
+    <canvas id="roleChart"></canvas>
+    <br><br>
+    <canvas id="durationChart"></canvas>
+    <br><br>
+    <canvas id="motivationChart"></canvas>
+  </section>
+
+  <footer>
+    &copy; 2025 Dindi Dashboard | Volunteers Module
+  </footer>
+
+  <script src="../js/volunteers.js"></script>
+</body>
+</html>
