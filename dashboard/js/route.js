@@ -1,4 +1,4 @@
-fetch('../data/route_details.csv')
+fetch('/Palkhi2025-DS-Project/data/route_details.csv')
   .then(res => res.text())
   .then(csv => {
     const rows = csv.trim().split('\n').slice(1).map(r => r.split(','));
