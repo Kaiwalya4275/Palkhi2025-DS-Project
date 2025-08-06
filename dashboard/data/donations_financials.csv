@@ -1,0 +1,31 @@
+donation_id,village,date,donor_type,donor_name,amount_received,expense_category,amount_spent,mode_of_payment,remarks,net_balance,is_high_donation,payment_type
+D001,Dehu,2025-06-18,Individual,Dehu Trust,50000,Food & Water,45000,Cash,Seed funding for dindis,5000,1,cash
+D002,Akurdi,2025-06-19,Corporate,Pimpri Pharma Ltd,120000,Medical Supplies,115000,Online,Medical aid kits,5000,1,online
+D003,Pune,2025-06-20,NGO,PMC Relief Fund,90000,Meals,85000,UPI,Midday meals at Nana Peth,5000,1,upi
+D004,Pune (Morwadi),2025-06-20,Individual,Local Business,30000,Sanitation,28000,Cash,Portable toilets,2000,1,cash
+D005,Hadapsar,2025-06-21,Temple Trust,Hadapsar Mandir Committee,60000,Cultural,55000,Cash,Lezim & Kirtan set-up,5000,1,cash
+D006,Loni Kalbhor,2025-06-22,Local People,Seva Mandal,45000,Food,42000,Cash,Tea & snacks service,3000,1,cash
+D007,Yavat,2025-06-23,NGO,Bhakti Group,80000,Medical,78000,Online,First aid tent,2000,1,online
+D008,Varvand (Valhe),2025-06-24,Temple Trust,Valhe Vitthal Samiti,70000,Cultural,68000,Cash,Night bhajan stage,2000,1,cash
+D009,Baramati,2025-06-25,Corporate,Baramati Agro,110000,Food & Water,105000,Online,Bulk pulse distribution,5000,1,online
+D010,Baramati (Belvadi),2025-06-25,Local People,Wari Seva Samiti,50000,Transport,48000,Cash,Bus rentals for elderly,2000,1,cash
+D011,Indapur,2025-06-26,NGO,Indapur Social Trust,90000,Food,87000,UPI,Chapati + sabji,3000,1,upi
+D012,Indapur (Golringan),2025-06-26,Individual,Local Philanthropist,30000,Water,28000,Cash,Water tankers,2000,1,cash
+D013,Akluj,2025-06-27,Temple Trust,Akluj Vitthal Mandir,75000,Cultural,72000,Cash,Ringan festival support,3000,1,cash
+D014,Akluj (Mane School),2025-06-27,Corporate,Akluj Industries,60000,First Aid,58000,Online,Ambulance hiring,2000,1,online
+D015,Natepute,2025-06-28,Local People,Natepute Varkari Mandal,40000,Food,38000,Cash,Tea & biscuits,2000,1,cash
+D016,Velapur,2025-06-29,NGO,Green Seva,30000,Sanitation,28000,UPI,Trash bins & cleaning,2000,1,upi
+D017,Shegaon (Bhandishegaon),2025-06-29,Individual,Shivaji Mauli Seva,35000,Cultural,34000,Cash,Kirtan platform,1000,1,cash
+D018,Wakhari,2025-07-01,Temple Trust,Wakhari Temple Committee,80000,Transport,78000,UPI,Bus for night stop,2000,1,upi
+D019,Pirachi Kuroli,2025-07-02,Individual,Local Seva Pathak,30000,Food,28000,Cash,Dal & rice packs,2000,1,cash
+D020,Borgaon (Shripur),2025-07-02,Corporate,Shripur Co-op,50000,Medical,48000,Online,Camp supplies,2000,1,online
+D021,Malinagar (Ubhe Ringan site),2025-07-03,Temple Trust,Malinagar Samiti,60000,Cultural,58000,Cash,Ubhe Ringan logistics,2000,1,cash
+D022,Tondale Bondale,2025-07-03,Local People,Palkhi Watch Group,25000,Water,23000,Cash,Water jars setup,2000,1,cash
+D023,Anthurne,2025-07-04,Local People,Anthurne Warkari Mandal,35000,Food,33000,Cash,Afternoon snacks,2000,1,cash
+D024,Nimgaon Ketki,2025-07-04,Individual,Nimgaon Youth,20000,Sanitation,19000,Cash,Volunteer Rikshaw cleaners,1000,1,cash
+D025,Indapur (second halt),2025-07-04,NGO,Indapur Mahila Mandal,45000,Women Warkari Support,43000,UPI,Sanitary kits,2000,1,upi
+D026,Bhandishegaon,2025-07-05,Corporate,Green Valley Agro,70000,Cleanup,68000,Online,Trash removal camp,2000,1,online
+D027,Wakhari,2025-07-05,NGO,Varkari Youth Group,90000,Medical,88000,Cash,Final day health camp,2000,1,cash
+D028,Pandharpur,2025-07-05,Temple Trust,Pandharpur Maha Mandal,200000,Final Day Services,180000,Cash,Aarti & stage setup,20000,1,cash
+D029,Pandharpur,2025-07-05,Corporate,Rukhmini Industries,80000,Transport,78000,Online,Vehicle staging,2000,1,online
+D030,Pandharpur,2025-07-05,Individual,Anonymous Donor,50000,Miscellaneous,45000,Cash,General funding,5000,1,cash

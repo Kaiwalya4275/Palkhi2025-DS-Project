@@ -1,0 +1,12 @@
+,center_id,location,incharge_name,contact_number,medical_staff_count,ambulance_available,medicine_stock_level,open_hours,avg_patients_per_day,emergency_services
+count,30,30,30,30.0,30.0,30,30,30,30.0,30
+unique,30,11,30,,,2,3,5,,2
+top,MS001,Dehu,Dr. Amol K.,,,Yes,High,06:0022:00,,Yes
+freq,1,3,1,,,22,14,11,,22
+mean,,,,9796383619.133333,6.266666666666667,,,,128.5,
+std,,,,56090314.62384338,2.3479019737120455,,,,57.68747548286549,
+min,,,,9701234567.0,3.0,,,,55.0,
+25%,,,,9745612390.0,5.0,,,,91.25,
+50%,,,,9798765432.0,6.0,,,,120.0,
+75%,,,,9838272437.5,7.0,,,,147.5,
+max,,,,9898012345.0,12.0,,,,270.0,

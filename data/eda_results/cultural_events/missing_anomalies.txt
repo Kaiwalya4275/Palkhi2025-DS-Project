@@ -1,0 +1,155 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+event_id:
+event_id
+CE001    0.033333
+CE002    0.033333
+CE003    0.033333
+CE004    0.033333
+CE005    0.033333
+CE006    0.033333
+CE007    0.033333
+CE008    0.033333
+CE009    0.033333
+CE010    0.033333
+CE011    0.033333
+CE012    0.033333
+CE013    0.033333
+CE014    0.033333
+CE015    0.033333
+CE016    0.033333
+CE017    0.033333
+CE018    0.033333
+CE019    0.033333
+CE020    0.033333
+CE021    0.033333
+CE022    0.033333
+CE023    0.033333
+CE024    0.033333
+CE025    0.033333
+CE026    0.033333
+CE027    0.033333
+CE028    0.033333
+CE029    0.033333
+CE030    0.033333
+Name: proportion, dtype: float64
+
+event_name:
+event_name
+Bhajan Sandhya                 0.033333
+Kirtan Sabha                   0.033333
+Dindi Nritya                   0.033333
+Sant Charitra Katha            0.033333
+Palkhi Utsav Sohla             0.033333
+Harmonium-Veena Jugalbandi     0.033333
+Bhakta Sammelan                0.033333
+Bhakti Geetanjali              0.033333
+Nama Sankirtan                 0.033333
+Abhang Vachan                  0.033333
+Dindi Kala Mohotsav            0.033333
+Lezim Pathak Show              0.033333
+Kirtankar Mahotsav             0.033333
+Bhakta Parayan                 0.033333
+Santwani Sabha                 0.033333
+Shree Tukaram Natyamahotsav    0.033333
+Shibhir - Varkari Shikshan     0.033333
+Bhakti Gatha                   0.033333
+Namasmaran Yatra               0.033333
+Final Bhajan Darbar            0.033333
+Kawad Pathak Performance       0.033333
+Bhakta Lekhan Karyashala       0.033333
+Dindi Chitrakala Exhibition    0.033333
+Palkhi Shubharambh Dance       0.033333
+Mukta Bai Kirtan               0.033333
+Nama Japa Dhyan Shibir         0.033333
+Abhang Ratri Jagar             0.033333
+Sant Tukaram Charitra Drama    0.033333
+Dindi Bhakti Orchestra         0.033333
+Final Aarti & Bhajan           0.033333
+Name: proportion, dtype: float64
+
+date:
+date
+2025-06-25    0.033333
+Name: proportion, dtype: float64
+
+time:
+time
+20:15    0.033333
+18:45    0.033333
+21:00    0.033333
+17:00    0.033333
+18:30    0.033333
+09:00    0.033333
+07:00    0.033333
+15:00    0.033333
+14:00    0.033333
+19:45    0.033333
+06:00    0.033333
+22:00    0.033333
+Name: proportion, dtype: float64
+
+organizing_group:
+organizing_group
+Sant Tukaram Dindi Mandal        0.033333
+Narayani Varkari Group           0.033333
+Jai Malhar Kala Pathak           0.033333
+Tukaram Maharaj Prasar Mandal    0.033333
+Mauli Yatra Mandal               0.033333
+Dindi Bhajan Samiti              0.033333
+Shree Hari Bhakta Mandal         0.033333
+Sant Prem Bhajan Mandal          0.033333
+Vithoba Seva Mandal              0.033333
+Pandhari Bhakt Mandal            0.033333
+Bhakti Kala Pratishthan          0.033333
+Bhakt Lezim Toli                 0.033333
+Vitthal Varkari Mandal           0.033333
+Samarth Seva Mandal              0.033333
+Santwani Varkari Group           0.033333
+Tukaram Natyakala Mandal         0.033333
+Dindi Education Cell             0.033333
+Bhakta Geet Mandal               0.033333
+Nama Seva Group                  0.033333
+Palkhi Bhajan Mandal             0.033333
+Sai Bhakt Youth Group            0.033333
+Varkari Sahitya Samiti           0.033333
+Dindi Kala Sangh                 0.033333
+Bhakti Nritya Mandal             0.033333
+Vitthal Bhakta Sangh             0.033333
+Vithu Mauli Seva Group           0.033333
+Nama Ratri Bhajan Mandal         0.033333
+Sant Tukaram Kala Kendra         0.033333
+Bhakti Symphony Group            0.033333
+Shree Dindi Seva Mandal          0.033333
+Name: proportion, dtype: float64
+
+event_type:
+event_type
+Celebration           0.033333
+Storytelling          0.033333
+Traditional Dance     0.033333
+Spiritual Meetup      0.033333
+Music                 0.033333
+Abhang Singing        0.033333
+Sankirtan             0.033333
+Theatre               0.033333
+Recitation            0.033333
+Poetry                0.033333
+Play                  0.033333
+Procession            0.033333
+Street Performance    0.033333
+Art Exhibition        0.033333
+Meditation            0.033333
+All-night Singing     0.033333
+Drama                 0.033333
+Instrumental          0.033333
+Bhajan + Aarti        0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+expected_audience: 3 outliers

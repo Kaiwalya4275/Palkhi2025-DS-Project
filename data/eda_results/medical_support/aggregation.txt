@@ -1,0 +1,220 @@
+
+--- Group by center_id (Top 5) ---
+center_id
+MS001    1
+MS002    1
+MS003    1
+MS004    1
+MS005    1
+Name: count, dtype: int64
+
+--- Group by location (Top 5) ---
+location
+Dehu             3
+Pune             3
+Hadapsar         3
+Loni Kalbhor     3
+Uruli Kanchan    3
+Name: count, dtype: int64
+
+--- Group by incharge_name (Top 5) ---
+incharge_name
+Dr. Amol K.        1
+Dr. Reena Joshi    1
+Dr. Rajesh B.      1
+Dr. Pooja M.       1
+Dr. Sanjay N.      1
+Name: count, dtype: int64
+
+--- Group by ambulance_available (Top 5) ---
+ambulance_available
+Yes    22
+No      8
+Name: count, dtype: int64
+
+--- Group by medicine_stock_level (Top 5) ---
+medicine_stock_level
+High      14
+Medium     9
+Low        7
+Name: count, dtype: int64
+
+--- Group by open_hours (Top 5) ---
+open_hours
+06:00–22:00    11
+24 Hours        9
+08:00–18:00     5
+08:00–20:00     3
+06:00–14:00     2
+Name: count, dtype: int64
+
+--- Group by emergency_services (Top 5) ---
+emergency_services
+Yes    22
+No      8
+Name: count, dtype: int64
+
+--- Mean of contact_number by center_id (Top 5) ---
+center_id
+MS028    9.898012e+09
+MS011    9.890123e+09
+MS030    9.890011e+09
+MS007    9.876543e+09
+MS025    9.856749e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by center_id (Top 5) ---
+center_id
+MS030    12.0
+MS022    11.0
+MS002    10.0
+MS011    10.0
+MS013     9.0
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by center_id (Top 5) ---
+center_id
+MS022    270.0
+MS030    260.0
+MS011    250.0
+MS002    200.0
+MS013    180.0
+Name: avg_patients_per_day, dtype: float64
+
+--- Mean of contact_number by location (Top 5) ---
+location
+Pandharpur    9.863086e+09
+Varvand       9.829774e+09
+Patas         9.825477e+09
+Akluj         9.800681e+09
+Pune          9.800412e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by location (Top 5) ---
+location
+Pandharpur    11.000000
+Pune           9.333333
+Baramati       7.000000
+Hadapsar       7.000000
+Akluj          6.000000
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by location (Top 5) ---
+location
+Pandharpur    260.000000
+Pune          183.333333
+Patas         141.666667
+Akluj         135.000000
+Baramati      127.500000
+Name: avg_patients_per_day, dtype: float64
+
+--- Mean of contact_number by incharge_name (Top 5) ---
+incharge_name
+Dr. Ashwin J.    9.898012e+09
+Dr. Vikram S.    9.890123e+09
+Dr. Deepak B.    9.890011e+09
+Dr. Nikhil D.    9.876543e+09
+Dr. Snehal S.    9.856749e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by incharge_name (Top 5) ---
+incharge_name
+Dr. Deepak B.      12.0
+Dr. Amit G.        11.0
+Dr. Vikram S.      10.0
+Dr. Reena Joshi    10.0
+Dr. Harish M.       9.0
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by incharge_name (Top 5) ---
+incharge_name
+Dr. Amit G.        270.0
+Dr. Deepak B.      260.0
+Dr. Vikram S.      250.0
+Dr. Reena Joshi    200.0
+Dr. Kiran D.       180.0
+Name: avg_patients_per_day, dtype: float64
+
+--- Mean of contact_number by ambulance_available (Top 5) ---
+ambulance_available
+Yes    9.796859e+09
+No     9.795077e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by ambulance_available (Top 5) ---
+ambulance_available
+Yes    7.136364
+No     3.875000
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by ambulance_available (Top 5) ---
+ambulance_available
+Yes    149.545455
+No      70.625000
+Name: avg_patients_per_day, dtype: float64
+
+--- Mean of contact_number by medicine_stock_level (Top 5) ---
+medicine_stock_level
+High      9.812053e+09
+Low       9.794550e+09
+Medium    9.773435e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by medicine_stock_level (Top 5) ---
+medicine_stock_level
+High      7.928571
+Medium    5.666667
+Low       3.714286
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by medicine_stock_level (Top 5) ---
+medicine_stock_level
+High      171.428571
+Medium    110.000000
+Low        66.428571
+Name: avg_patients_per_day, dtype: float64
+
+--- Mean of contact_number by open_hours (Top 5) ---
+open_hours
+24 Hours       9.832279e+09
+08:00–18:00    9.805223e+09
+08:00–20:00    9.792990e+09
+06:00–22:00    9.769107e+09
+06:00–14:00    9.767868e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by open_hours (Top 5) ---
+open_hours
+24 Hours       8.111111
+06:00–22:00    6.454545
+08:00–20:00    6.000000
+06:00–14:00    4.000000
+08:00–18:00    3.600000
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by open_hours (Top 5) ---
+open_hours
+24 Hours       186.111111
+06:00–22:00    126.818182
+08:00–20:00    106.666667
+06:00–14:00     72.500000
+08:00–18:00     64.000000
+Name: avg_patients_per_day, dtype: float64
+
+--- Mean of contact_number by emergency_services (Top 5) ---
+emergency_services
+Yes    9.796859e+09
+No     9.795077e+09
+Name: contact_number, dtype: float64
+
+--- Mean of medical_staff_count by emergency_services (Top 5) ---
+emergency_services
+Yes    7.136364
+No     3.875000
+Name: medical_staff_count, dtype: float64
+
+--- Mean of avg_patients_per_day by emergency_services (Top 5) ---
+emergency_services
+Yes    149.545455
+No      70.625000
+Name: avg_patients_per_day, dtype: float64

@@ -1,0 +1,11 @@
+palkhi_name,day_number,date,village_name,security_agency,staff_deployed,cctv_installed,crowd_estimate,incidents_reported,incident_details
+Sant Tukaram,2,2025-06-10,Dighi,Maharashtra Police,35,Yes,3000,0,
+Sant Tukaram,3,2025-06-11,Bhosari,Local Volunteers,28,No,2500,1,Child missing (found in 10 mins)
+Sant Tukaram,5,2025-06-13,Indapur,State Reserve Police,50,Yes,4500,0,
+Sant Tukaram,6,2025-06-14,Akurdi,MIDC Security,22,No,1800,1,Traffic jam near bypass
+Sant Dnyaneshwar,3,2025-06-11,Vishrantwadi,Pune Police,30,Yes,2700,0,
+Sant Dnyaneshwar,4,2025-06-12,Yerwada,Private Agency,25,No,2600,0,
+Sant Dnyaneshwar,5,2025-06-13,Koregaon Park,Maharashtra Police,38,Yes,4200,1,Unruly youth group dispersed
+Sant Dnyaneshwar,6,2025-06-14,Hinjewadi,IT Park Security,20,Yes,2300,0,
+Sant Tukaram,7,2025-06-15,Dehu Road,Local Police Station,40,Yes,3900,0,
+Sant Dnyaneshwar,7,2025-06-15,Mulshi,Forest Dept Guards,18,No,1200,1,Monkey disturbance near tents

@@ -1,0 +1,11 @@
+palkhi_name,day_number,date,village_name,medical_camp_location,staff_count,ambulance_count,common_cases,total_cases_reported,emergency_cases
+Sant Tukaram,2,2025-06-10,Dighi,Primary Health Center,8,2,Dehydration,47,3
+Sant Tukaram,3,2025-06-11,Bhosari,ZP School Ground,5,1,Blisters,38,1
+Sant Tukaram,5,2025-06-13,Indapur,Rural Hospital Campus,9,3,Foot sprain,56,4
+Sant Tukaram,6,2025-06-14,Akurdi,Mobile Van Camp,4,1,Minor Cuts,31,0
+Sant Dnyaneshwar,3,2025-06-11,Vishrantwadi,Community Center Hall,7,2,Muscle Cramps,44,2
+Sant Dnyaneshwar,4,2025-06-12,Yerwada,School Premises,6,1,Fever,40,1
+Sant Dnyaneshwar,5,2025-06-13,Koregaon Park,Mobile Tent Camp,5,1,Blisters,33,0
+Sant Dnyaneshwar,6,2025-06-14,Hinjewadi,PHC Extension Unit,9,2,Fatigue,52,3
+Sant Dnyaneshwar,7,2025-06-15,Mulshi,Forest Check Post Area,4,1,Dehydration,29,1
+Sant Tukaram,8,2025-06-16,Khed,Urban Health Center,7,1,Heatstroke,42,2

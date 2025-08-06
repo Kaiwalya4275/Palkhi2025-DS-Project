@@ -1,0 +1,248 @@
+
+--- Group by dindi_id (Top 5) ---
+dindi_id
+D001    1
+D002    1
+D003    1
+D004    1
+D005    1
+Name: count, dtype: int64
+
+--- Group by dindi_name (Top 5) ---
+dindi_name
+Sant Tukaram Mauli Dindi         1
+Shree Kunjirwadi Bhakt Dindi     1
+Theur Bhajan Mandal Dindi        1
+Vitthal Mitra Mandal Dindi       1
+Hadapsar Tukaram Bhakta Dindi    1
+Name: count, dtype: int64
+
+--- Group by origin_village (Top 5) ---
+origin_village
+Kunjirwadi    2
+Theur         2
+Indapur       2
+Yavat         2
+Varvand       2
+Name: count, dtype: int64
+
+--- Group by age_group (Top 5) ---
+age_group
+Adult     12
+Mixed      7
+Youth      6
+Senior     5
+Name: count, dtype: int64
+
+--- Group by gender_ratio (Top 5) ---
+gender_ratio
+50:50    7
+55:45    4
+53:47    4
+60:40    3
+58:42    3
+Name: count, dtype: int64
+
+--- Group by musical_instruments (Top 5) ---
+musical_instruments
+Lezim      10
+Mridang     5
+Taal        5
+Dholki      3
+Halgi       3
+Name: count, dtype: int64
+
+--- Group by group_leader (Top 5) ---
+group_leader
+Vishwanath Jadhav    1
+Ashok Shinde         1
+Meera Pawar          1
+Sachin Patil         1
+Ramani Bhagat        1
+Name: count, dtype: int64
+
+--- Mean of total_participants by dindi_id (Top 5) ---
+dindi_id
+D004    350.0
+D010    330.0
+D026    330.0
+D012    320.0
+D027    320.0
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by dindi_id (Top 5) ---
+dindi_id
+D005    20.0
+D013    20.0
+D010    18.0
+D001    15.0
+D026    15.0
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by dindi_id (Top 5) ---
+dindi_id
+D014    9.898990e+09
+D025    9.898765e+09
+D007    9.887654e+09
+D015    9.876543e+09
+D020    9.876503e+09
+Name: contact_number, dtype: float64
+
+--- Mean of total_participants by dindi_name (Top 5) ---
+dindi_name
+Vitthal Mitra Mandal Dindi         350.0
+Baramati Varkari Sangh Dindi       330.0
+Baramati Sant Tukaram Dindi        330.0
+Akluj Tukaram Bhakt Niwas Dindi    320.0
+Sant Tukaram Mauli Dindi           320.0
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by dindi_name (Top 5) ---
+dindi_name
+Natepute Sant Bhakti Dindi       20.0
+Hadapsar Tukaram Bhakta Dindi    20.0
+Baramati Varkari Sangh Dindi     18.0
+Baramati Sant Tukaram Dindi      15.0
+Sant Tukaram Mauli Dindi         15.0
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by dindi_name (Top 5) ---
+dindi_name
+Nimgaon Ketki Dindi Mandal       9.898990e+09
+Varvand Warkari Bhajan Mandal    9.898765e+09
+Uruli Kanchan Sant Dindi         9.887654e+09
+Borgaon Warkari Pathak Dindi     9.876543e+09
+Velapur Dindi Seva Mandal        9.876503e+09
+Name: contact_number, dtype: float64
+
+--- Mean of total_participants by origin_village (Top 5) ---
+origin_village
+Pune        350.0
+Baramati    330.0
+Dehu        320.0
+Akluj       315.0
+Indapur     315.0
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by origin_village (Top 5) ---
+origin_village
+Hadapsar    20.0
+Baramati    16.5
+Dehu        15.0
+Wakhari     13.0
+Natepute    13.0
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by origin_village (Top 5) ---
+origin_village
+Uruli Kanchan    9.887654e+09
+Borgaon          9.876543e+09
+Velapur          9.876503e+09
+Dehu             9.876501e+09
+Yavat            9.870966e+09
+Name: contact_number, dtype: float64
+
+--- Mean of total_participants by age_group (Top 5) ---
+age_group
+Senior    307.000000
+Adult     304.166667
+Youth     295.000000
+Mixed     292.857143
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by age_group (Top 5) ---
+age_group
+Senior    15.200000
+Mixed      9.571429
+Adult      9.166667
+Youth      6.000000
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by age_group (Top 5) ---
+age_group
+Adult     9.846942e+09
+Youth     9.846216e+09
+Senior    9.815067e+09
+Mixed     9.808704e+09
+Name: contact_number, dtype: float64
+
+--- Mean of total_participants by gender_ratio (Top 5) ---
+gender_ratio
+62:38    350.000000
+60:40    326.666667
+58:42    310.000000
+52:48    300.000000
+55:45    298.750000
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by gender_ratio (Top 5) ---
+gender_ratio
+45:55    16.5
+60:40    16.0
+62:38    12.0
+58:42    10.0
+56:44     9.0
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by gender_ratio (Top 5) ---
+gender_ratio
+57:43    9.887654e+09
+48:52    9.870968e+09
+56:44    9.867123e+09
+60:40    9.854727e+09
+55:45    9.850479e+09
+Name: contact_number, dtype: float64
+
+--- Mean of total_participants by musical_instruments (Top 5) ---
+musical_instruments
+Dhol‑Tasha    320.000000
+Halgi         311.666667
+Mridang       306.000000
+Dholki        303.333333
+Taal          297.000000
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by musical_instruments (Top 5) ---
+musical_instruments
+Dhol‑Tasha    14.500000
+Dholki        12.333333
+Taal          11.600000
+Mridang       10.400000
+Halgi          9.000000
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by musical_instruments (Top 5) ---
+musical_instruments
+Mridang       9.847630e+09
+Taal          9.844490e+09
+Dhol          9.838889e+09
+Lezim         9.833633e+09
+Dhol‑Tasha    9.827195e+09
+Name: contact_number, dtype: float64
+
+--- Mean of total_participants by group_leader (Top 5) ---
+group_leader
+Sachin Patil       350.0
+Rahul Shinde       330.0
+Sunil Deshmukh     330.0
+Sneha Ghorpade     320.0
+Shivaji Gaikwad    320.0
+Name: total_participants, dtype: float64
+
+--- Mean of years_participated by group_leader (Top 5) ---
+group_leader
+Ramani Bhagat        20.0
+Namdev Rathod        20.0
+Sunil Deshmukh       18.0
+Rahul Shinde         15.0
+Vishwanath Jadhav    15.0
+Name: years_participated, dtype: float64
+
+--- Mean of contact_number by group_leader (Top 5) ---
+group_leader
+Sudhir Lokhande    9.898990e+09
+Maya Pawar         9.898765e+09
+Priyanka Shinde    9.887654e+09
+Nitin Pal          9.876543e+09
+Amol Deshmukh      9.876503e+09
+Name: contact_number, dtype: float64

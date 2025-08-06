@@ -1,0 +1,3 @@
+Encoded column: age_group
+Encoded column: gender_ratio
+Encoded column: musical_instruments

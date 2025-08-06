@@ -1,0 +1,168 @@
+
+--- Group by report_id (Top 5) ---
+report_id
+ENV001    1
+ENV002    1
+ENV003    1
+ENV004    1
+ENV005    1
+Name: count, dtype: int64
+
+--- Group by village (Top 5) ---
+village
+Wakhari                 2
+Akurdi                  1
+Nigdi (Dehu stretch)    1
+Pune (Nana Peth)        1
+Dehu                    1
+Name: count, dtype: int64
+
+--- Group by date (Top 5) ---
+date
+2025-07-05    4
+2025-07-06    3
+2025-07-04    3
+2025-07-02    2
+2025-06-19    2
+Name: count, dtype: int64
+
+--- Group by cleanup_agency (Top 5) ---
+cleanup_agency
+Dehu Eco Team        1
+PCMC Volunteers      1
+Local Youth Group    1
+Pune MC              1
+Pune Civic Team      1
+Name: count, dtype: int64
+
+--- Group by recyclables_separated (Top 5) ---
+recyclables_separated
+Yes    30
+Name: count, dtype: int64
+
+--- Group by plastic_banned (Top 5) ---
+plastic_banned
+Yes    28
+No      2
+Name: count, dtype: int64
+
+--- Group by remarks (Top 5) ---
+remarks
+Initial clean-up drive     1
+High pedestrian zone       1
+Street cleanup             1
+Plastic ban enforced       1
+Construction disruption    1
+Name: count, dtype: int64
+
+--- Mean of waste_collected_kg by report_id (Top 5) ---
+report_id
+ENV030    1600.0
+ENV028    1500.0
+ENV029    1400.0
+ENV027    1300.0
+ENV026    1200.0
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by report_id (Top 5) ---
+report_id
+ENV028    10.0
+ENV027    10.0
+ENV026    10.0
+ENV030    10.0
+ENV001     9.0
+Name: enforcement_score, dtype: float64
+
+--- Mean of waste_collected_kg by village (Top 5) ---
+village
+Pandharpur (Crowd area)     1600.0
+Pandharpur Temple           1500.0
+Pandharpur (Market area)    1400.0
+Pandharpur Inner            1300.0
+Pandharpur Road Stretch     1200.0
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by village (Top 5) ---
+village
+Pandharpur (Crowd area)    10.0
+Pandharpur Inner           10.0
+Pandharpur Road Stretch    10.0
+Pandharpur Temple          10.0
+Akluj                       9.0
+Name: enforcement_score, dtype: float64
+
+--- Mean of waste_collected_kg by date (Top 5) ---
+date
+2025-07-06    1500.0
+2025-07-05    1150.0
+2025-06-25     900.0
+2025-07-03     900.0
+2025-06-27     825.0
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by date (Top 5) ---
+date
+2025-07-06    9.666667
+2025-07-05    9.500000
+2025-06-18    9.000000
+2025-07-03    9.000000
+2025-06-27    9.000000
+Name: enforcement_score, dtype: float64
+
+--- Mean of waste_collected_kg by cleanup_agency (Top 5) ---
+cleanup_agency
+City Civic Force             1600.0
+Temple Staff & Volunteers    1500.0
+City MC                      1400.0
+Nirmal Pandharpur Mission    1300.0
+Pandharpur Volunteers        1200.0
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by cleanup_agency (Top 5) ---
+cleanup_agency
+City Civic Force             10.0
+Nirmal Pandharpur Mission    10.0
+Pandharpur Volunteers        10.0
+Temple Staff & Volunteers    10.0
+City MC                       9.0
+Name: enforcement_score, dtype: float64
+
+--- Mean of waste_collected_kg by recyclables_separated (Top 5) ---
+recyclables_separated
+Yes    810.0
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by recyclables_separated (Top 5) ---
+recyclables_separated
+Yes    8.366667
+Name: enforcement_score, dtype: float64
+
+--- Mean of waste_collected_kg by plastic_banned (Top 5) ---
+plastic_banned
+Yes    821.428571
+No     650.000000
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by plastic_banned (Top 5) ---
+plastic_banned
+Yes    8.5
+No     6.5
+Name: enforcement_score, dtype: float64
+
+--- Mean of waste_collected_kg by remarks (Top 5) ---
+remarks
+Spotless final cleanup    1600.0
+Post-Ashadhi cleanup      1500.0
+Overflow managed          1400.0
+Paduka Aarti prep         1300.0
+Main temple road          1200.0
+Name: waste_collected_kg, dtype: float64
+
+--- Mean of enforcement_score by remarks (Top 5) ---
+remarks
+Main temple road          10.0
+Paduka Aarti prep         10.0
+Post-Ashadhi cleanup      10.0
+Spotless final cleanup    10.0
+Initial clean-up drive     9.0
+Name: enforcement_score, dtype: float64

@@ -1,0 +1,5 @@
+Extracted year, month, day from date
+Encoded column: location
+Encoded column: police_assistance
+Encoded column: CCTV_deployed
+Encoded column: medical_team_available

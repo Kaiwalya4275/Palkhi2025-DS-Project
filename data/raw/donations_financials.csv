@@ -1,0 +1,11 @@
+palkhi_name,day_number,date,donor_type,donor_name,amount_received,expense_category,amount_spent,mode_of_payment,remarks
+Sant Tukaram,2,2025-06-10,Individual,Sunil Deshmukh,10000,Food,8500,Cash,Remaining used next day
+Sant Tukaram,3,2025-06-11,Corporate,Omkar Industries,50000,Medical,49000,Online,Blood pressure kits purchased
+Sant Tukaram,5,2025-06-13,Temple Trust,Dehu Trust,15000,Water Supply,12000,Cash,High water demand
+Sant Dnyaneshwar,3,2025-06-11,NGO,Janseva Samiti,12000,Transport,11000,Online,Tempo rentals
+Sant Dnyaneshwar,4,2025-06-12,Individual,Meena Kulkarni,5000,Cultural Events,4800,Cash,Used for stage setup
+Sant Dnyaneshwar,5,2025-06-13,Corporate,TechNova Ltd,60000,Security,57000,Online,Surveillance setup
+Sant Dnyaneshwar,6,2025-06-14,NGO,Haripath Seva Mandal,9000,Food,8500,Cash,Cooked by volunteers
+Sant Tukaram,6,2025-06-14,Corporate,Swastik Logistics,25000,Transport,23000,Online,Vehicle fuel + driver
+Sant Dnyaneshwar,7,2025-06-15,Temple Trust,Alandi Bhakta Samiti,18000,Accommodation,16000,Cash,School hall rent
+Sant Tukaram,7,2025-06-15,Individual,Ankush More,4000,Medical,3700,Cash,First aid and glucose

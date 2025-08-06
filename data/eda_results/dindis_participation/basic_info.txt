@@ -1,0 +1,18 @@
+Column Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 30 entries, 0 to 29
+Data columns (total 10 columns):
+ #   Column               Non-Null Count  Dtype 
+---  ------               --------------  ----- 
+ 0   dindi_id             30 non-null     object
+ 1   dindi_name           30 non-null     object
+ 2   origin_village       30 non-null     object
+ 3   total_participants   30 non-null     int64 
+ 4   age_group            30 non-null     object
+ 5   gender_ratio         30 non-null     object
+ 6   musical_instruments  30 non-null     object
+ 7   years_participated   30 non-null     int64 
+ 8   group_leader         30 non-null     object
+ 9   contact_number       30 non-null     int64 
+dtypes: int64(3), object(7)
+memory usage: 2.5+ KB

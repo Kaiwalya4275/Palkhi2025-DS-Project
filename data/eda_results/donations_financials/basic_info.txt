@@ -1,0 +1,18 @@
+Column Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 30 entries, 0 to 29
+Data columns (total 10 columns):
+ #   Column            Non-Null Count  Dtype 
+---  ------            --------------  ----- 
+ 0   donation_id       30 non-null     object
+ 1   village           30 non-null     object
+ 2   date              30 non-null     object
+ 3   donor_type        30 non-null     object
+ 4   donor_name        30 non-null     object
+ 5   amount_received   30 non-null     int64 
+ 6   expense_category  30 non-null     object
+ 7   amount_spent      30 non-null     int64 
+ 8   mode_of_payment   30 non-null     object
+ 9   remarks           30 non-null     object
+dtypes: int64(2), object(8)
+memory usage: 2.5+ KB

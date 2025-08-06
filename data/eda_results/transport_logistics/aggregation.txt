@@ -1,0 +1,162 @@
+
+--- Group by convoy_id (Top 5) ---
+convoy_id
+TR001    1
+TR002    1
+TR003    1
+TR004    1
+TR005    1
+Name: count, dtype: int64
+
+--- Group by convoy_name (Top 5) ---
+convoy_name
+Shree Vitthal Transport Dindi 1    1
+Bhakt Seva Convoy A                1
+Sai Mandir Transport Unit          1
+Omkar Logistics Team               1
+Jai Malhar Convoy                  1
+Name: count, dtype: int64
+
+--- Group by vehicle_type (Top 5) ---
+vehicle_type
+Truck              9
+Tempo Traveller    5
+Mini Truck         5
+Van                5
+Mini Van           5
+Name: count, dtype: int64
+
+--- Group by origin_village (Top 5) ---
+origin_village
+Yavat         4
+Daund         3
+Varvand       3
+Kunjirwadi    3
+Dehu          2
+Name: count, dtype: int64
+
+--- Group by destination_village (Top 5) ---
+destination_village
+Uruli Kanchan    4
+Daund            3
+Patas            3
+Theur            3
+Pune             2
+Name: count, dtype: int64
+
+--- Group by departure_time (Top 5) ---
+departure_time
+2025-06-20 06:00    1
+2025-06-20 09:00    1
+2025-06-20 10:30    1
+2025-06-20 12:00    1
+2025-06-20 14:00    1
+Name: count, dtype: int64
+
+--- Group by arrival_time (Top 5) ---
+arrival_time
+2025-06-20 08:00    1
+2025-06-20 10:00    1
+2025-06-20 11:30    1
+2025-06-20 13:00    1
+2025-06-20 15:30    1
+Name: count, dtype: int64
+
+--- Group by cargo_type (Top 5) ---
+cargo_type
+Medicines           2
+Food Grains         1
+Medical Supplies    1
+Volunteer Kits      1
+Sound Equipment     1
+Name: count, dtype: int64
+
+--- Group by driver_name (Top 5) ---
+driver_name
+Avinash Pawar    1
+Vikrant Patil    1
+Neel Joshi       1
+Sudhir Kale      1
+Anand Jadhav     1
+Name: count, dtype: int64
+
+--- Mean of contact_number by convoy_id (Top 5) ---
+convoy_id
+TR005    9.988123e+09
+TR009    9.977882e+09
+TR018    9.945612e+09
+TR011    9.891235e+09
+TR026    9.874561e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by convoy_name (Top 5) ---
+convoy_name
+Jai Malhar Convoy       9.988123e+09
+Swami Samarth Convoy    9.977882e+09
+Krishna Movers          9.945612e+09
+Namdev Logistics        9.891235e+09
+Varkari Express         9.874561e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by vehicle_type (Top 5) ---
+vehicle_type
+Dumper             9.891235e+09
+Van                9.675111e+09
+Mini Truck         9.611661e+09
+Tempo Traveller    9.535957e+09
+Truck              9.444999e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by origin_village (Top 5) ---
+origin_village
+Varvand     9.901972e+09
+Baramati    9.862898e+09
+Patas       9.785383e+09
+Theur       9.774681e+09
+Hadapsar    9.555523e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by destination_village (Top 5) ---
+destination_village
+Indapur     9.862898e+09
+Baramati    9.785383e+09
+Yavat       9.774681e+09
+Patas       9.654707e+09
+Theur       9.606585e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by departure_time (Top 5) ---
+departure_time
+2025-06-20 14:00    9.988123e+09
+2025-06-21 10:00    9.977882e+09
+2025-06-22 16:00    9.945612e+09
+2025-06-21 14:30    9.891235e+09
+2025-06-24 08:00    9.874561e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by arrival_time (Top 5) ---
+arrival_time
+2025-06-20 15:30    9.988123e+09
+2025-06-21 11:30    9.977882e+09
+2025-06-22 17:00    9.945612e+09
+2025-06-21 15:45    9.891235e+09
+2025-06-24 09:30    9.874561e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by cargo_type (Top 5) ---
+cargo_type
+Stage Setup            9.988123e+09
+First Aid Kits         9.977882e+09
+Plastic Plates         9.945612e+09
+Waste Disposal Bags    9.891235e+09
+Tea Flasks             9.874561e+09
+Name: contact_number, dtype: float64
+
+--- Mean of contact_number by driver_name (Top 5) ---
+driver_name
+Anand Jadhav       9.988123e+09
+Sachin Ghuge       9.977882e+09
+Rushikesh Patil    9.945612e+09
+Shivaji Bhujbal    9.891235e+09
+Nilesh Sawant      9.874561e+09
+Name: contact_number, dtype: float64

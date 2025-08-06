@@ -1,0 +1,3 @@
+Encoded column: vehicle_type
+Encoded column: origin_village
+Encoded column: destination_village

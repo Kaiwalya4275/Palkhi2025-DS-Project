@@ -1,0 +1,18 @@
+Column Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 30 entries, 0 to 29
+Data columns (total 10 columns):
+ #   Column                Non-Null Count  Dtype 
+---  ------                --------------  ----- 
+ 0   center_id             30 non-null     object
+ 1   location              30 non-null     object
+ 2   incharge_name         30 non-null     object
+ 3   contact_number        30 non-null     int64 
+ 4   medical_staff_count   30 non-null     int64 
+ 5   ambulance_available   30 non-null     object
+ 6   medicine_stock_level  30 non-null     object
+ 7   open_hours            30 non-null     object
+ 8   avg_patients_per_day  30 non-null     int64 
+ 9   emergency_services    30 non-null     object
+dtypes: int64(3), object(7)
+memory usage: 2.5+ KB

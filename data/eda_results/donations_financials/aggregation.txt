@@ -1,0 +1,210 @@
+
+--- Group by donation_id (Top 5) ---
+donation_id
+D001    1
+D002    1
+D003    1
+D004    1
+D005    1
+Name: count, dtype: int64
+
+--- Group by village (Top 5) ---
+village
+Pandharpur        3
+Wakhari           2
+Dehu              1
+Pune (Morwadi)    1
+Hadapsar          1
+Name: count, dtype: int64
+
+--- Group by date (Top 5) ---
+date
+2025-07-05    5
+2025-07-04    3
+2025-07-02    2
+2025-06-20    2
+2025-06-26    2
+Name: count, dtype: int64
+
+--- Group by donor_type (Top 5) ---
+donor_type
+Individual      7
+Corporate       6
+NGO             6
+Temple Trust    6
+Local People    5
+Name: count, dtype: int64
+
+--- Group by donor_name (Top 5) ---
+donor_name
+Dehu Trust                   1
+Pimpri Pharma Ltd            1
+PMC Relief Fund              1
+Local Business               1
+Hadapsar Mandir Committee    1
+Name: count, dtype: int64
+
+--- Group by expense_category (Top 5) ---
+expense_category
+Cultural      5
+Food          5
+Sanitation    3
+Medical       3
+Transport     3
+Name: count, dtype: int64
+
+--- Group by mode_of_payment (Top 5) ---
+mode_of_payment
+Cash      18
+Online     7
+UPI        5
+Name: count, dtype: int64
+
+--- Group by remarks (Top 5) ---
+remarks
+Seed funding for dindis      1
+Medical aid kits             1
+Midday meals at Nana Peth    1
+Portable toilets             1
+Lezim & Kirtan set-up        1
+Name: count, dtype: int64
+
+--- Mean of amount_received by donation_id (Top 5) ---
+donation_id
+D028    200000.0
+D002    120000.0
+D009    110000.0
+D011     90000.0
+D027     90000.0
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by donation_id (Top 5) ---
+donation_id
+D028    180000.0
+D002    115000.0
+D009    105000.0
+D027     88000.0
+D011     87000.0
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by village (Top 5) ---
+village
+Akurdi        120000.0
+Baramati      110000.0
+Pandharpur    110000.0
+Pune           90000.0
+Indapur        90000.0
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by village (Top 5) ---
+village
+Akurdi        115000.0
+Baramati      105000.0
+Pandharpur    101000.0
+Indapur        87000.0
+Pune           85000.0
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by date (Top 5) ---
+date
+2025-06-19    120000.0
+2025-07-05     98000.0
+2025-07-01     80000.0
+2025-06-25     80000.0
+2025-06-23     80000.0
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by date (Top 5) ---
+date
+2025-06-19    115000.0
+2025-07-05     91800.0
+2025-07-01     78000.0
+2025-06-23     78000.0
+2025-06-25     76500.0
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by donor_type (Top 5) ---
+donor_type
+Temple Trust    90833.333333
+Corporate       81666.666667
+NGO             70833.333333
+Local People    39000.000000
+Individual      35000.000000
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by donor_type (Top 5) ---
+donor_type
+Temple Trust    85166.666667
+Corporate       78666.666667
+NGO             68166.666667
+Local People    36800.000000
+Individual      32428.571429
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by donor_name (Top 5) ---
+donor_name
+Pandharpur Maha Mandal    200000.0
+Pimpri Pharma Ltd         120000.0
+Baramati Agro             110000.0
+PMC Relief Fund            90000.0
+Varkari Youth Group        90000.0
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by donor_name (Top 5) ---
+donor_name
+Pandharpur Maha Mandal    180000.0
+Pimpri Pharma Ltd         115000.0
+Baramati Agro             105000.0
+Varkari Youth Group        88000.0
+Indapur Social Trust       87000.0
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by expense_category (Top 5) ---
+expense_category
+Final Day Services    200000.000000
+Medical Supplies      120000.000000
+Meals                  90000.000000
+Food & Water           80000.000000
+Medical                73333.333333
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by expense_category (Top 5) ---
+expense_category
+Final Day Services    180000.000000
+Medical Supplies      115000.000000
+Meals                  85000.000000
+Food & Water           75000.000000
+Medical                71333.333333
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by mode_of_payment (Top 5) ---
+mode_of_payment
+Online    81428.571429
+UPI       67000.000000
+Cash      55277.777778
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by mode_of_payment (Top 5) ---
+mode_of_payment
+Online    78571.428571
+UPI       64200.000000
+Cash      51777.777778
+Name: amount_spent, dtype: float64
+
+--- Mean of amount_received by remarks (Top 5) ---
+remarks
+Aarti & stage setup          200000.0
+Medical aid kits             120000.0
+Bulk pulse distribution      110000.0
+Final day health camp         90000.0
+Midday meals at Nana Peth     90000.0
+Name: amount_received, dtype: float64
+
+--- Mean of amount_spent by remarks (Top 5) ---
+remarks
+Aarti & stage setup        180000.0
+Medical aid kits           115000.0
+Bulk pulse distribution    105000.0
+Final day health camp       88000.0
+Chapati + sabji             87000.0
+Name: amount_spent, dtype: float64

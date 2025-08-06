@@ -1,0 +1,12 @@
+,convoy_id,convoy_name,vehicle_type,origin_village,destination_village,departure_time,arrival_time,cargo_type,driver_name,contact_number
+count,30,30,30,30,30,30,30,30,30,30.0
+unique,30,30,6,13,13,30,30,29,30,
+top,TR001,Shree Vitthal Transport Dindi 1,Truck,Yavat,Uruli Kanchan,2025-06-20 06:00,2025-06-20 08:00,Medicines,Avinash Pawar,
+freq,1,1,9,4,4,1,1,2,1,
+mean,,,,,,,,,,9538732218.066668
+std,,,,,,,,,,363332970.1496118
+min,,,,,,,,,,8789456211.0
+25%,,,,,,,,,,9170511018.75
+50%,,,,,,,,,,9651201267.5
+75%,,,,,,,,,,9842483134.75
+max,,,,,,,,,,9988123456.0

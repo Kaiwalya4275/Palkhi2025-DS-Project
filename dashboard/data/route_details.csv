@@ -1,0 +1,31 @@
+route_id,start_location,end_location,distance_km,estimated_time_min,terrain_type,is_highway,road_condition,safety_level,route_sequence_day,latitude_start,longitude_start,latitude_end,longitude_end,region
+R001,Dehu,Alandi,15,40,Plain,true,Good,High,1,18.7192,73.7685,18.6775,73.8957,Pune
+R002,Alandi,Kunjirwadi,25,60,City,false,Average,Medium,2,18.6775,73.8957,18.4466,73.9615,Pune
+R003,Kunjirwadi,Theur,12,35,Plain,false,Good,High,3,18.4466,73.9615,18.5161,73.9835,Pune
+R004,Theur,Yavat,22,50,Plain,true,Good,High,4,18.5161,73.9835,18.4638,74.0622,Pune
+R005,Yavat,Uruli Kanchan,10,25,City,false,Good,Medium,5,18.4638,74.0622,18.4692,74.0511,Pune
+R006,Uruli Kanchan,Daund,28,75,Highway,true,Average,High,6,18.4692,74.0511,18.4657,74.5839,Pune
+R007,Daund,Varvand,18,45,Plain,false,Good,High,7,18.4657,74.5839,18.3973,74.1933,Pune
+R008,Varvand,Baramati,32,80,Hilly,true,Average,Medium,8,18.3973,74.1933,18.1516,74.5801,Baramati
+R009,Baramati,Indapur,36,90,Plain,true,Good,High,9,18.1516,74.5801,18.1134,75.0200,Baramati
+R010,Indapur,Akluj,29,70,Hilly,false,Poor,Low,10,18.1134,75.0200,17.9149,75.0249,Solapur
+R011,Akluj,Natepute,24,60,Plain,false,Average,Medium,11,17.9149,75.0249,17.7686,75.2485,Solapur
+R012,Natepute,Nimgaon Ketki,14,35,Forest,false,Poor,Low,12,17.7686,75.2485,17.8497,75.3342,Solapur
+R013,Nimgaon Ketki,Borgaon,16,40,Hilly,false,Average,Medium,13,17.8497,75.3342,17.7013,75.3111,Solapur
+R014,Borgaon,Shegaon,30,75,Highway,true,Good,High,14,17.7013,75.3111,17.6203,75.3870,Solapur
+R015,Shegaon,Wakhari,20,50,Plain,false,Average,High,15,17.6203,75.3870,17.6435,75.9110,Pandharpur
+R016,Wakhari,Pirachi Kuroli,10,30,City,false,Good,High,16,17.6435,75.9110,17.6010,75.9210,Pandharpur
+R017,Pirachi Kuroli,Anthurne,15,40,Hilly,false,Poor,Low,17,17.6010,75.9210,17.5445,75.8742,Solapur
+R018,Anthurne,Velapur,22,60,Forest,false,Poor,Low,18,17.5445,75.8742,17.4642,75.8442,Solapur
+R019,Velapur,Kunjirwadi,33,85,Highway,true,Average,Medium,19,17.4642,75.8442,18.4466,73.9615,Pune
+R020,Kunjirwadi,Theur,12,30,City,false,Good,High,20,18.4466,73.9615,18.5161,73.9835,Pune
+R021,Theur,Yavat,18,40,Plain,true,Good,High,21,18.5161,73.9835,18.4638,74.0622,Pune
+R022,Yavat,Dehu,38,100,Highway,true,Average,Medium,22,18.4638,74.0622,18.7192,73.7685,Pune
+R023,Dehu,Pune,20,50,City,true,Average,High,23,18.7192,73.7685,18.5204,73.8567,Pune
+R024,Pune,Hadapsar,12,25,City,false,Good,High,24,18.5204,73.8567,18.4960,73.9319,Pune
+R025,Hadapsar,Loni Kalbhor,10,20,Plain,false,Good,High,25,18.4960,73.9319,18.4959,73.9856,Pune
+R026,Loni Kalbhor,Baramati,40,95,Hilly,true,Average,Medium,26,18.4959,73.9856,18.1516,74.5801,Baramati
+R027,Baramati,Natepute,27,60,Highway,true,Good,High,27,18.1516,74.5801,17.7686,75.2485,Solapur
+R028,Natepute,Pandharpur,30,70,Plain,true,Good,High,28,17.7686,75.2485,17.6792,75.3302,Pandharpur
+R029,Pandharpur,Wakhari,7,15,City,false,Good,High,29,17.6792,75.3302,17.6435,75.9110,Pandharpur
+R030,Wakhari,Palkhi End Point,5,10,City,false,Good,High,30,17.6435,75.9110,17.6400,75.9200,Pandharpur

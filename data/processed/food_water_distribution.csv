@@ -1,0 +1,31 @@
+distribution_id,team_name,village_name,distribution_type,quantity,unit,start_time,end_time,responsible_person,contact_number
+FD001,Sant Seva Bhakt Mandal,Kunjirwadi,Food Packets,800,packets,2025-06-20 08:00,2025-06-20 09:30,Vilas Ghadge,9021438765
+FD002,Vitthal Anna Foundation,Theur,Drinking Water,1500,litres,2025-06-20 10:00,2025-06-20 11:30,Ramesh Dhole,9012578493
+FD003,Jai Hari Mandal,Daund,Fruits,400,kg,2025-06-20 12:00,2025-06-20 13:30,Sachin Waghmare,9023876512
+FD004,Om Bhakt Seva Group,Yavat,Pilgrim Meals,600,plates,2025-06-20 14:00,2025-06-20 15:15,Sanjay Shitole,9765123478
+FD005,Mauli Bhakt Sangh,Varvand,Drinking Water,1200,litres,2025-06-20 16:00,2025-06-20 17:00,Ravindra Salunkhe,9874521309
+FD006,Gajanan Dindi Annadan Team,Patas,Food Packets,950,packets,2025-06-21 07:00,2025-06-21 08:30,Swapnil Patil,9823614570
+FD007,Tukaram Maharaj Seva Mandal,Baramati,Buttermilk,300,litres,2025-06-21 09:00,2025-06-21 10:00,Anil Babar,9785463210
+FD008,Sant Sohala Trust,Indapur,Snacks,500,packs,2025-06-21 10:30,2025-06-21 11:30,Kishor Thorat,9456789012
+FD009,Namdev Bhakt Samiti,Akluj,Drinking Water,1800,litres,2025-06-21 12:00,2025-06-21 13:00,Mahadev Wani,9345167890
+FD010,Shree Vitthal Dindi Sevak Mandal,Pandharpur,Fruits,550,kg,2025-06-21 14:00,2025-06-21 15:00,Nitin Shelke,9612348751
+FD011,Bhakt Unity Team,Kunjirwadi,Tea,150,litres,2025-06-22 06:00,2025-06-22 07:00,Shrikant Kadam,9521348760
+FD012,Narayani Mahila Group,Theur,Food Packets,700,packets,2025-06-22 07:30,2025-06-22 08:30,Sujata Pawar,9845123760
+FD013,Varkari Bhakt Mandal,Daund,Lemon Juice,250,litres,2025-06-22 09:00,2025-06-22 10:00,Akash Jadhav,9798652140
+FD014,Jai Malhar Mandal,Yavat,Biscuits,600,packs,2025-06-22 10:30,2025-06-22 11:30,Vijay Kshirsagar,9632587412
+FD015,Palkhi Seva Samiti,Varvand,Fruits,450,kg,2025-06-22 12:00,2025-06-22 13:00,Suresh Dandge,9112356874
+FD016,Bhakt Dindi Mahasangh,Patas,Drinking Water,1400,litres,2025-06-22 13:30,2025-06-22 14:30,Harish Salvi,9978421306
+FD017,Haripath Seva Mandal,Baramati,Tea,180,litres,2025-06-22 15:00,2025-06-22 16:00,Sachin Ingle,9001234785
+FD018,Swami Samarth Group,Indapur,Food Packets,800,packets,2025-06-22 16:30,2025-06-22 17:30,Abhijit Gaikwad,9732145687
+FD019,Tulsi Bhakt Parivar,Akluj,Fruits,500,kg,2025-06-23 06:00,2025-06-23 07:00,Narayan Kharat,9213567845
+FD020,Ganraj Mandal,Pandharpur,Buttermilk,320,litres,2025-06-23 07:30,2025-06-23 08:30,Rajendra Nale,9897623150
+FD021,Sai Bhakt Group,Kunjirwadi,Food Packets,700,packets,2025-06-23 09:00,2025-06-23 10:00,Rupesh Zope,9876543211
+FD022,Gavran Annadan Mandal,Theur,Snacks,450,packs,2025-06-23 10:30,2025-06-23 11:30,Sandeep Babar,9123456710
+FD023,Shree Bhakti Parivar,Daund,Lassi,200,litres,2025-06-23 12:00,2025-06-23 13:00,Sachin Bhosale,9845123498
+FD024,Path Seva Team,Yavat,Biscuits,500,packs,2025-06-23 13:30,2025-06-23 14:30,Mahesh Shinde,9782314567
+FD025,Sant Charan Mandal,Varvand,Drinking Water,1300,litres,2025-06-23 15:00,2025-06-23 16:00,Ajit Wagh,9332158740
+FD026,Vithu Mauli Seva Patas,Patas,Tea,170,litres,2025-06-23 16:30,2025-06-23 17:30,Deepak Shirke,9007852314
+FD027,Morya Bhakt Mandal,Baramati,Food Packets,850,packets,2025-06-24 06:00,2025-06-24 07:30,Satish Gavhane,9721354762
+FD028,Dindi Food Seva,Indapur,Fruits,600,kg,2025-06-24 08:00,2025-06-24 09:00,Ajinkya Gawade,9507123489
+FD029,Sant Tukaram Food Trust,Akluj,Snacks,480,packs,2025-06-24 09:30,2025-06-24 10:30,Omkar Kulkarni,9456732187
+FD030,Shree Palkhi Jal Seva,Pandharpur,Drinking Water,1700,litres,2025-06-24 11:00,2025-06-24 12:00,Nilesh Landge,9231564780

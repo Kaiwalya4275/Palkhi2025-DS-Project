@@ -1,0 +1,165 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+donation_id:
+donation_id
+D001    0.033333
+D002    0.033333
+D003    0.033333
+D004    0.033333
+D005    0.033333
+D006    0.033333
+D007    0.033333
+D008    0.033333
+D009    0.033333
+D010    0.033333
+D011    0.033333
+D012    0.033333
+D013    0.033333
+D014    0.033333
+D015    0.033333
+D016    0.033333
+D017    0.033333
+D018    0.033333
+D019    0.033333
+D020    0.033333
+D021    0.033333
+D022    0.033333
+D023    0.033333
+D024    0.033333
+D025    0.033333
+D026    0.033333
+D027    0.033333
+D028    0.033333
+D029    0.033333
+D030    0.033333
+Name: proportion, dtype: float64
+
+village:
+village
+Dehu                            0.033333
+Pune (Morwadi)                  0.033333
+Hadapsar                        0.033333
+Loni Kalbhor                    0.033333
+Yavat                           0.033333
+Varvand (Valhe)                 0.033333
+Baramati                        0.033333
+Akurdi                          0.033333
+Pune                            0.033333
+Indapur                         0.033333
+Baramati (Belvadi)              0.033333
+Akluj (Mane School)             0.033333
+Indapur (Golringan)             0.033333
+Natepute                        0.033333
+Velapur                         0.033333
+Shegaon (Bhandishegaon)         0.033333
+Akluj                           0.033333
+Pirachi Kuroli                  0.033333
+Borgaon (Shripur)               0.033333
+Tondale Bondale                 0.033333
+Malinagar (Ubhe Ringan site)    0.033333
+Anthurne                        0.033333
+Nimgaon Ketki                   0.033333
+Indapur (second halt)           0.033333
+Bhandishegaon                   0.033333
+Name: proportion, dtype: float64
+
+date:
+date
+2025-06-18    0.033333
+2025-06-23    0.033333
+2025-06-21    0.033333
+2025-06-22    0.033333
+2025-06-19    0.033333
+2025-06-24    0.033333
+2025-07-01    0.033333
+2025-06-28    0.033333
+Name: proportion, dtype: float64
+
+donor_name:
+donor_name
+Dehu Trust                   0.033333
+Pimpri Pharma Ltd            0.033333
+PMC Relief Fund              0.033333
+Local Business               0.033333
+Hadapsar Mandir Committee    0.033333
+Seva Mandal                  0.033333
+Bhakti Group                 0.033333
+Valhe Vitthal Samiti         0.033333
+Baramati Agro                0.033333
+Wari Seva Samiti             0.033333
+Indapur Social Trust         0.033333
+Local Philanthropist         0.033333
+Akluj Vitthal Mandir         0.033333
+Akluj Industries             0.033333
+Natepute Varkari Mandal      0.033333
+Green Seva                   0.033333
+Shivaji Mauli Seva           0.033333
+Wakhari Temple Committee     0.033333
+Local Seva Pathak            0.033333
+Shripur Co-op                0.033333
+Malinagar Samiti             0.033333
+Palkhi Watch Group           0.033333
+Anthurne Warkari Mandal      0.033333
+Nimgaon Youth                0.033333
+Indapur Mahila Mandal        0.033333
+Green Valley Agro            0.033333
+Varkari Youth Group          0.033333
+Pandharpur Maha Mandal       0.033333
+Rukhmini Industries          0.033333
+Anonymous Donor              0.033333
+Name: proportion, dtype: float64
+
+expense_category:
+expense_category
+Medical Supplies         0.033333
+Meals                    0.033333
+First Aid                0.033333
+Women Warkari Support    0.033333
+Cleanup                  0.033333
+Final Day Services       0.033333
+Miscellaneous            0.033333
+Name: proportion, dtype: float64
+
+remarks:
+remarks
+Seed funding for dindis       0.033333
+Medical aid kits              0.033333
+Midday meals at Nana Peth     0.033333
+Portable toilets              0.033333
+Lezim & Kirtan set-up         0.033333
+Tea & snacks service          0.033333
+First aid tent                0.033333
+Night bhajan stage            0.033333
+Bulk pulse distribution       0.033333
+Bus rentals for elderly       0.033333
+Chapati + sabji               0.033333
+Water tankers                 0.033333
+Ringan festival support       0.033333
+Ambulance hiring              0.033333
+Tea & biscuits                0.033333
+Trash bins & cleaning         0.033333
+Kirtan platform               0.033333
+Bus for night stop            0.033333
+Dal & rice packs              0.033333
+Camp supplies                 0.033333
+Ubhe Ringan logistics         0.033333
+Water jars setup              0.033333
+Afternoon snacks              0.033333
+Volunteer Rikshaw cleaners    0.033333
+Sanitary kits                 0.033333
+Trash removal camp            0.033333
+Final day health camp         0.033333
+Aarti & stage setup           0.033333
+Vehicle staging               0.033333
+General funding               0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+amount_received: 1 outliers
+
+amount_spent: 1 outliers

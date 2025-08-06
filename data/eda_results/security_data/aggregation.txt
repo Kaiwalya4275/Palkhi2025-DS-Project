@@ -1,0 +1,126 @@
+
+--- Group by security_id (Top 5) ---
+security_id
+S001    1
+S002    1
+S003    1
+S004    1
+S005    1
+Name: count, dtype: int64
+
+--- Group by location (Top 5) ---
+location
+Dehu             3
+Pune             3
+Hadapsar         3
+Loni Kalbhor     3
+Uruli Kanchan    3
+Name: count, dtype: int64
+
+--- Group by date (Top 5) ---
+date
+2025-06-11    6
+2025-06-12    6
+2025-06-13    6
+2025-06-15    4
+2025-06-10    3
+Name: count, dtype: int64
+
+--- Group by time_slot (Top 5) ---
+time_slot
+10:00–14:00    2
+06:00–09:00    2
+06:00–08:00    2
+18:00–20:00    2
+08:00–10:00    2
+Name: count, dtype: int64
+
+--- Group by police_assistance (Top 5) ---
+police_assistance
+Yes    24
+No      6
+Name: count, dtype: int64
+
+--- Group by CCTV_deployed (Top 5) ---
+CCTV_deployed
+Yes    20
+No     10
+Name: count, dtype: int64
+
+--- Group by medical_team_available (Top 5) ---
+medical_team_available
+Yes    25
+No      5
+Name: count, dtype: int64
+
+--- Group by notes (Top 5) ---
+notes
+Rural stretch                 2
+Large crowd expected          1
+Traffic congestion managed    1
+Dindi halt                    1
+Flag-off ceremony             1
+Name: count, dtype: int64
+
+--- Mean of security_personnel_count by security_id (Top 5) ---
+security_id
+S030    140.0
+S022    120.0
+S011    100.0
+S008     60.0
+S019     55.0
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by location (Top 5) ---
+location
+Pandharpur    120.000000
+Baramati       57.500000
+Pune           42.333333
+Hadapsar       39.333333
+Indapur        37.500000
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by date (Top 5) ---
+date
+2025-06-16    120.000000
+2025-06-14     57.500000
+2025-06-11     40.833333
+2025-06-15     34.500000
+2025-06-13     26.333333
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by time_slot (Top 5) ---
+time_slot
+18:00–22:00    140.0
+14:00–18:00    120.0
+06:00–12:00    100.0
+10:00–14:00     55.0
+16:00–18:00     40.5
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by police_assistance (Top 5) ---
+police_assistance
+Yes    46.416667
+No     20.666667
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by CCTV_deployed (Top 5) ---
+CCTV_deployed
+Yes    48.75
+No     26.30
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by medical_team_available (Top 5) ---
+medical_team_available
+Yes    42.8
+No     33.6
+Name: security_personnel_count, dtype: float64
+
+--- Mean of security_personnel_count by notes (Top 5) ---
+notes
+Darshan line control    140.0
+Darshan final hours     120.0
+Final darshan crowd     100.0
+VIP visit                60.0
+Mayor rally joined       55.0
+Name: security_personnel_count, dtype: float64

@@ -1,0 +1,5 @@
+Encoded column: location
+Encoded column: ambulance_available
+Encoded column: medicine_stock_level
+Encoded column: open_hours
+Encoded column: emergency_services

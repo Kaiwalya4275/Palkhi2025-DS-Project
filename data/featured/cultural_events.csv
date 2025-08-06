@@ -1,0 +1,31 @@
+event_id,event_name,date,time,village_name,organizing_group,expected_audience,event_type,event_hour,time_of_day,is_large_event,event_day_name,event_category_flag
+CE001,Bhajan Sandhya,2025-06-20,19:00:00,Kunjirwadi,Sant Tukaram Dindi Mandal,300,Bhajan,19,Evening,0,Friday,bhajan
+CE002,Kirtan Sabha,2025-06-20,18:00:00,Theur,Narayani Varkari Group,200,Kirtan,18,Evening,0,Friday,kirtan
+CE003,Dindi Nritya,2025-06-21,20:00:00,Yavat,Jai Malhar Kala Pathak,150,Traditional Dance,20,Evening,0,Saturday,dance
+CE004,Sant Charitra Katha,2025-06-21,17:30:00,Daund,Tukaram Maharaj Prasar Mandal,250,Storytelling,17,Evening,0,Saturday,other
+CE005,Palkhi Utsav Sohla,2025-06-22,19:30:00,Varvand,Mauli Yatra Mandal,400,Celebration,19,Evening,0,Sunday,other
+CE006,Harmonium-Veena Jugalbandi,2025-06-22,20:15:00,Patas,Dindi Bhajan Samiti,120,Music,20,Evening,0,Sunday,other
+CE007,Bhakta Sammelan,2025-06-23,18:00:00,Baramati,Shree Hari Bhakta Mandal,350,Spiritual Meetup,18,Evening,0,Monday,other
+CE008,Bhakti Geetanjali,2025-06-23,20:00:00,Indapur,Sant Prem Bhajan Mandal,300,Singing,20,Evening,0,Monday,other
+CE009,Nama Sankirtan,2025-06-24,19:30:00,Akluj,Vithoba Seva Mandal,500,Sankirtan,19,Evening,0,Tuesday,kirtan
+CE010,Abhang Vachan,2025-06-24,18:45:00,Pandharpur,Pandhari Bhakt Mandal,700,Abhang Singing,18,Evening,1,Tuesday,other
+CE011,Dindi Kala Mohotsav,2025-06-20,21:00:00,Kunjirwadi,Bhakti Kala Pratishthan,180,Theatre,21,Night,0,Friday,other
+CE012,Lezim Pathak Show,2025-06-20,20:00:00,Theur,Bhakt Lezim Toli,250,Folk Dance,20,Evening,0,Friday,dance
+CE013,Kirtankar Mahotsav,2025-06-21,19:30:00,Yavat,Vitthal Varkari Mandal,300,Kirtan,19,Evening,0,Saturday,kirtan
+CE014,Bhakta Parayan,2025-06-21,17:00:00,Daund,Samarth Seva Mandal,220,Recitation,17,Evening,0,Saturday,other
+CE015,Santwani Sabha,2025-06-22,20:30:00,Varvand,Santwani Varkari Group,150,Poetry,20,Evening,0,Sunday,other
+CE016,Shree Tukaram Natyamahotsav,2025-06-22,18:30:00,Patas,Tukaram Natyakala Mandal,350,Play,18,Evening,0,Sunday,other
+CE017,Shibhir - Varkari Shikshan,2025-06-23,09:00:00,Baramati,Dindi Education Cell,120,Workshop,9,Morning,0,Monday,other
+CE018,Bhakti Gatha,2025-06-23,20:00:00,Indapur,Bhakta Geet Mandal,300,Singing,20,Evening,0,Monday,other
+CE019,Namasmaran Yatra,2025-06-24,07:00:00,Akluj,Nama Seva Group,500,Procession,7,Morning,0,Tuesday,other
+CE020,Final Bhajan Darbar,2025-06-24,20:30:00,Pandharpur,Palkhi Bhajan Mandal,1000,Bhajan,20,Evening,1,Tuesday,bhajan
+CE021,Kawad Pathak Performance,2025-06-20,17:30:00,Kunjirwadi,Sai Bhakt Youth Group,200,Street Performance,17,Evening,0,Friday,other
+CE022,Bhakta Lekhan Karyashala,2025-06-21,15:00:00,Theur,Varkari Sahitya Samiti,50,Workshop,15,Afternoon,0,Saturday,other
+CE023,Dindi Chitrakala Exhibition,2025-06-22,14:00:00,Yavat,Dindi Kala Sangh,80,Art Exhibition,14,Afternoon,0,Sunday,other
+CE024,Palkhi Shubharambh Dance,2025-06-20,19:45:00,Daund,Bhakti Nritya Mandal,180,Folk Dance,19,Evening,0,Friday,dance
+CE025,Mukta Bai Kirtan,2025-06-23,17:30:00,Varvand,Vitthal Bhakta Sangh,270,Kirtan,17,Evening,0,Monday,kirtan
+CE026,Nama Japa Dhyan Shibir,2025-06-23,06:00:00,Patas,Vithu Mauli Seva Group,100,Meditation,6,Morning,0,Monday,other
+CE027,Abhang Ratri Jagar,2025-06-23,22:00:00,Baramati,Nama Ratri Bhajan Mandal,320,All-night Singing,22,Night,0,Monday,other
+CE028,Sant Tukaram Charitra Drama,2025-06-22,19:00:00,Indapur,Sant Tukaram Kala Kendra,400,Drama,19,Evening,0,Sunday,drama
+CE029,Dindi Bhakti Orchestra,2025-06-24,20:00:00,Akluj,Bhakti Symphony Group,250,Instrumental,20,Evening,0,Tuesday,other
+CE030,Final Aarti & Bhajan,2025-06-25,20:30:00,Pandharpur,Shree Dindi Seva Mandal,800,Bhajan + Aarti,20,Evening,1,Wednesday,bhajan

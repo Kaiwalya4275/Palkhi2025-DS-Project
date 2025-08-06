@@ -1,0 +1,31 @@
+security_id,location,date,time_slot,security_personnel_count,police_assistance,CCTV_deployed,medical_team_available,notes
+S001,Dehu,2025-06-10,05:0009:00,30,Yes,Yes,Yes,Flag-off ceremony
+S002,Pune,2025-06-11,10:0014:00,50,Yes,Yes,Yes,Large crowd expected
+S003,Hadapsar,2025-06-11,16:0020:00,40,Yes,Yes,No,Traffic congestion managed
+S004,Loni Kalbhor,2025-06-12,06:0010:00,25,Yes,No,Yes,Dindi halt
+S005,Uruli Kanchan,2025-06-12,12:0016:00,30,Yes,Yes,Yes,Major food distribution zone
+S006,Varvand,2025-06-13,06:0009:00,20,No,No,Yes,Rural stretch
+S007,Patas,2025-06-13,18:0021:00,35,Yes,Yes,Yes,Firecracker control
+S008,Baramati,2025-06-14,10:0014:00,60,Yes,Yes,Yes,VIP visit
+S009,Indapur,2025-06-15,07:0010:00,40,Yes,Yes,No,Heat-related check posts
+S010,Akluj,2025-06-15,18:0021:00,35,Yes,No,Yes,Evening jam
+S011,Pandharpur,2025-06-16,06:0012:00,100,Yes,Yes,Yes,Final darshan crowd
+S012,Dehu,2025-06-10,12:0014:00,25,Yes,No,Yes,Initial discipline
+S013,Pune,2025-06-11,06:0008:00,45,Yes,Yes,Yes,Traffic diversion
+S014,Hadapsar,2025-06-11,14:0016:00,38,Yes,No,Yes,Bridge patrol
+S015,Loni Kalbhor,2025-06-12,18:0020:00,20,No,No,Yes,Rural stretch
+S016,Uruli Kanchan,2025-06-12,08:0010:00,28,Yes,Yes,Yes,First aid camp
+S017,Varvand,2025-06-13,14:0017:00,22,No,No,Yes,Small halt
+S018,Patas,2025-06-13,10:0013:00,30,Yes,Yes,Yes,Medical emergencies handled
+S019,Baramati,2025-06-14,16:0018:00,55,Yes,Yes,Yes,Mayor rally joined
+S020,Indapur,2025-06-15,14:0017:00,35,Yes,Yes,No,Scattered crowd
+S021,Akluj,2025-06-15,06:0009:00,28,Yes,Yes,Yes,Mid-route control
+S022,Pandharpur,2025-06-16,14:0018:00,120,Yes,Yes,Yes,Darshan final hours
+S023,Dehu,2025-06-10,16:0019:00,20,No,No,Yes,Volunteer managed
+S024,Pune,2025-06-11,18:0020:00,32,Yes,Yes,Yes,Chowk congestion
+S025,Hadapsar,2025-06-11,08:0010:00,40,Yes,No,Yes,Rerouting completed
+S026,Loni Kalbhor,2025-06-12,16:0018:00,26,Yes,Yes,No,Temporary barricades
+S027,Uruli Kanchan,2025-06-12,20:0022:00,18,No,No,Yes,Overnight halt
+S028,Varvand,2025-06-13,10:0012:00,24,No,Yes,Yes,Water points
+S029,Patas,2025-06-13,06:0008:00,27,Yes,Yes,No,Sound system managed
+S030,Pandharpur,2025-06-16,18:0022:00,140,Yes,Yes,Yes,Darshan line control

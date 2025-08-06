@@ -1,0 +1,31 @@
+report_id,village,date,waste_collected_kg,cleanup_agency,recyclables_separated,plastic_banned,enforcement_score,remarks,is_strict_zone,is_recycling_practiced,waste_category,volunteers_involved
+ENV001,Dehu,2025-06-18,460,Dehu Eco Force,Yes,Yes,8,Main palkhi flag-off zone,1,1,High,25
+ENV002,Akurdi,2025-06-19,590,PCMC Clean Team,Yes,No,6,Roadside litter accumulation,0,1,Medium,22
+ENV003,Nigdi,2025-06-19,630,Nigdi Mandal,Yes,Yes,7,Devotee rest area cleaning,1,1,Medium,28
+ENV004,Nana Peth,2025-06-20,880,Pune MC,Yes,Yes,9,Plastic bags confiscated,1,1,High,35
+ENV005,Shivajinagar,2025-06-20,720,Pune Civic Volunteers,No,No,5,Construction debris scattered,0,0,Medium,20
+ENV006,Hadapsar,2025-06-21,540,Hadapsar Sanstha,Yes,Yes,8,Transit zone clean-up,1,1,High,30
+ENV007,Loni Kalbhor,2025-06-22,410,Youth Green Team,Yes,No,6,Temple lane sweep,0,1,Medium,18
+ENV008,Yavat,2025-06-23,480,Green Roots NGO,Yes,Yes,7,Post-meal waste handled,1,1,High,26
+ENV009,Varvand,2025-06-24,560,Varvand Seva Samiti,Yes,Yes,8,Short dindi rest halt,1,1,Medium,24
+ENV010,Baramati,2025-06-25,940,Baramati Eco Warriors,Yes,Yes,9,Bazaar area garbage cleanup,1,1,High,38
+ENV011,Indapur,2025-06-26,790,Indapur Green Team,Yes,Yes,8,Local stall waste clearance,1,1,High,33
+ENV012,Golringan,2025-06-26,670,Student Mandal,Yes,Yes,7,Volunteers-led action,1,1,Medium,27
+ENV013,Akluj,2025-06-27,860,Akluj City Corp,Yes,Yes,9,Ringan event aftermath,1,1,High,32
+ENV014,Mane Vidyalaya,2025-06-27,790,School Cleanup Squad,Yes,No,7,Youth participation drive,1,1,Medium,29
+ENV015,Natepute,2025-06-28,620,Natepute Mandal,No,No,5,Rain-affected garbage piles,0,0,Low,15
+ENV016,Velapur,2025-06-29,740,Village Swachhta Force,Yes,Yes,8,Early morning sweep,1,1,High,31
+ENV017,Shegaon,2025-06-29,660,Shegaon Warkari Mandal,Yes,Yes,7,Dindi temporary halt,1,1,Medium,23
+ENV018,Wakhari,2025-07-03,980,Wakhari Nirmal Team,Yes,Yes,10,Stage prep area cleanup,1,1,High,40
+ENV019,Pirachi Kuroli,2025-07-02,520,Local NGO Youths,Yes,Yes,7,Less crowded zone,0,1,Medium,21
+ENV020,Borgaon,2025-07-02,600,Borgaon Seva Force,Yes,Yes,8,Food stall waste area,1,1,Medium,25
+ENV021,Anthurne,2025-07-04,470,Anthurne Eco Mandal,No,No,5,Volunteer absentees noted,0,0,Low,16
+ENV022,Nimgaon Ketki,2025-07-04,560,Nimgaon Youth Circle,Yes,Yes,8,School surrounding cleaned,1,1,Medium,24
+ENV023,Indapur 2nd Halt,2025-07-04,710,Womens Mahila Mandal,Yes,Yes,9,Hygiene inspection site,1,1,High,33
+ENV024,Bhandishegaon,2025-07-05,960,Bhandishegaon Eco Mandal,Yes,Yes,9,Final prep day,1,1,High,36
+ENV025,Wakhari,2025-07-05,1120,Nirmal Wakhari Seva,Yes,Yes,10,Darshan zone cleaned,1,1,High,42
+ENV026,Pandharpur Road,2025-07-05,1240,Pandharpur City Force,Yes,Yes,10,Pilgrimage entry stretch,1,1,High,44
+ENV027,Pandharpur Inner,2025-07-05,1290,Paduka Samiti,Yes,Yes,10,Temple queue zone,1,1,High,45
+ENV028,Pandharpur Temple,2025-07-06,1480,Temple Management,Yes,Yes,10,Main Aarti cleanup,1,1,High,50
+ENV029,Pandharpur Market,2025-07-06,1370,City Council Workers,Yes,Yes,10,Shopper litter removed,1,1,High,48
+ENV030,Pandharpur Crowd Area,2025-07-06,1550,Volunteer Clean Force,Yes,Yes,10,Final day rush control,1,1,High,55

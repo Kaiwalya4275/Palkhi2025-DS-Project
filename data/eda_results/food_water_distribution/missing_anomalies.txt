@@ -1,0 +1,191 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+distribution_id:
+distribution_id
+FD001    0.033333
+FD002    0.033333
+FD003    0.033333
+FD004    0.033333
+FD005    0.033333
+FD006    0.033333
+FD007    0.033333
+FD008    0.033333
+FD009    0.033333
+FD010    0.033333
+FD011    0.033333
+FD012    0.033333
+FD013    0.033333
+FD014    0.033333
+FD015    0.033333
+FD016    0.033333
+FD017    0.033333
+FD018    0.033333
+FD019    0.033333
+FD020    0.033333
+FD021    0.033333
+FD022    0.033333
+FD023    0.033333
+FD024    0.033333
+FD025    0.033333
+FD026    0.033333
+FD027    0.033333
+FD028    0.033333
+FD029    0.033333
+FD030    0.033333
+Name: proportion, dtype: float64
+
+team_name:
+team_name
+Sant Seva Bhakt Mandal              0.033333
+Vitthal Anna Foundation             0.033333
+Jai Hari Mandal                     0.033333
+Om Bhakt Seva Group                 0.033333
+Mauli Bhakt Sangh                   0.033333
+Gajanan Dindi Annadan Team          0.033333
+Tukaram Maharaj Seva Mandal         0.033333
+Sant Sohala Trust                   0.033333
+Namdev Bhakt Samiti                 0.033333
+Shree Vitthal Dindi Sevak Mandal    0.033333
+Bhakt Unity Team                    0.033333
+Narayani Mahila Group               0.033333
+Varkari Bhakt Mandal                0.033333
+Jai Malhar Mandal                   0.033333
+Palkhi Seva Samiti                  0.033333
+Bhakt Dindi Mahasangh               0.033333
+Haripath Seva Mandal                0.033333
+Swami Samarth Group                 0.033333
+Tulsi Bhakt Parivar                 0.033333
+Ganraj Mandal                       0.033333
+Sai Bhakt Group                     0.033333
+Gavran Annadan Mandal               0.033333
+Shree Bhakti Parivar                0.033333
+Path Seva Team                      0.033333
+Sant Charan Mandal                  0.033333
+Vithu Mauli Seva Patas              0.033333
+Morya Bhakt Mandal                  0.033333
+Dindi Food Seva                     0.033333
+Sant Tukaram Food Trust             0.033333
+Shree Palkhi Jal Seva               0.033333
+Name: proportion, dtype: float64
+
+distribution_type:
+distribution_type
+Pilgrim Meals    0.033333
+Lemon Juice      0.033333
+Lassi            0.033333
+Name: proportion, dtype: float64
+
+unit:
+unit
+plates    0.033333
+Name: proportion, dtype: float64
+
+start_time:
+start_time
+2025-06-20 08:00    0.033333
+2025-06-20 10:00    0.033333
+2025-06-20 12:00    0.033333
+2025-06-20 14:00    0.033333
+2025-06-20 16:00    0.033333
+2025-06-21 07:00    0.033333
+2025-06-21 09:00    0.033333
+2025-06-21 10:30    0.033333
+2025-06-21 12:00    0.033333
+2025-06-21 14:00    0.033333
+2025-06-22 06:00    0.033333
+2025-06-22 07:30    0.033333
+2025-06-22 09:00    0.033333
+2025-06-22 10:30    0.033333
+2025-06-22 12:00    0.033333
+2025-06-22 13:30    0.033333
+2025-06-22 15:00    0.033333
+2025-06-22 16:30    0.033333
+2025-06-23 06:00    0.033333
+2025-06-23 07:30    0.033333
+2025-06-23 09:00    0.033333
+2025-06-23 10:30    0.033333
+2025-06-23 12:00    0.033333
+2025-06-23 13:30    0.033333
+2025-06-23 15:00    0.033333
+2025-06-23 16:30    0.033333
+2025-06-24 06:00    0.033333
+2025-06-24 08:00    0.033333
+2025-06-24 09:30    0.033333
+2025-06-24 11:00    0.033333
+Name: proportion, dtype: float64
+
+end_time:
+end_time
+2025-06-20 09:30    0.033333
+2025-06-20 11:30    0.033333
+2025-06-20 13:30    0.033333
+2025-06-20 15:15    0.033333
+2025-06-20 17:00    0.033333
+2025-06-21 08:30    0.033333
+2025-06-21 10:00    0.033333
+2025-06-21 11:30    0.033333
+2025-06-21 13:00    0.033333
+2025-06-21 15:00    0.033333
+2025-06-22 07:00    0.033333
+2025-06-22 08:30    0.033333
+2025-06-22 10:00    0.033333
+2025-06-22 11:30    0.033333
+2025-06-22 13:00    0.033333
+2025-06-22 14:30    0.033333
+2025-06-22 16:00    0.033333
+2025-06-22 17:30    0.033333
+2025-06-23 07:00    0.033333
+2025-06-23 08:30    0.033333
+2025-06-23 10:00    0.033333
+2025-06-23 11:30    0.033333
+2025-06-23 13:00    0.033333
+2025-06-23 14:30    0.033333
+2025-06-23 16:00    0.033333
+2025-06-23 17:30    0.033333
+2025-06-24 07:30    0.033333
+2025-06-24 09:00    0.033333
+2025-06-24 10:30    0.033333
+2025-06-24 12:00    0.033333
+Name: proportion, dtype: float64
+
+responsible_person:
+responsible_person
+Vilas Ghadge         0.033333
+Ramesh Dhole         0.033333
+Sachin Waghmare      0.033333
+Sanjay Shitole       0.033333
+Ravindra Salunkhe    0.033333
+Swapnil Patil        0.033333
+Anil Babar           0.033333
+Kishor Thorat        0.033333
+Mahadev Wani         0.033333
+Nitin Shelke         0.033333
+Shrikant Kadam       0.033333
+Sujata Pawar         0.033333
+Akash Jadhav         0.033333
+Vijay Kshirsagar     0.033333
+Suresh Dandge        0.033333
+Harish Salvi         0.033333
+Sachin Ingle         0.033333
+Abhijit Gaikwad      0.033333
+Narayan Kharat       0.033333
+Rajendra Nale        0.033333
+Rupesh Zope          0.033333
+Sandeep Babar        0.033333
+Sachin Bhosale       0.033333
+Mahesh Shinde        0.033333
+Ajit Wagh            0.033333
+Deepak Shirke        0.033333
+Satish Gavhane       0.033333
+Ajinkya Gawade       0.033333
+Omkar Kulkarni       0.033333
+Nilesh Landge        0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+quantity: 3 outliers

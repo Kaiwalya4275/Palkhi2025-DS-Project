@@ -1,0 +1,31 @@
+route_id,origin,destination,distance_km,halt_duration_hrs,terrain_type,medical_camp,water_points,police_presence,traffic_control,estimated_palkhi_time
+R001,Dehu,Pune,30,3,Urban,Yes,3,High,Yes,2025-06-28 08:30
+R002,Pune,Hadapsar,12,2,Urban,Yes,2,High,Yes,2025-06-28 11:00
+R003,Hadapsar,Loni Kalbhor,15,1,Suburban,Yes,2,Medium,Yes,2025-06-28 13:00
+R004,Loni Kalbhor,Uruli Kanchan,11,1,Rural,Yes,1,Medium,Yes,2025-06-28 14:30
+R005,Uruli Kanchan,Varvand,18,3,Rural,Yes,2,Medium,Yes,2025-06-28 17:00
+R006,Varvand,Patas,17,1.5,Rural,Yes,1,Medium,Yes,2025-06-29 08:30
+R007,Patas,Baramati,22,4,Rural,Yes,2,Medium,Yes,2025-06-29 12:00
+R008,Baramati,Indapur,28,3,Rural,Yes,3,High,Yes,2025-06-29 16:00
+R009,Indapur,Akluj,33,4,Rural,Yes,3,High,Yes,2025-06-30 07:00
+R010,Akluj,Pandharpur,38,5,Rural,Yes,4,Very High,Yes,2025-06-30 12:30
+R011,Dehu,Alandi,10,1.5,Urban,Yes,2,High,Yes,2025-06-27 07:30
+R012,Alandi,Pune,20,3,Urban,Yes,3,High,Yes,2025-06-27 11:00
+R013,Pune,Saswad,25,4,Rural,Yes,2,Medium,Yes,2025-06-28 15:00
+R014,Saswad,Jejuri,28,5,Hilly,Yes,2,Medium,Yes,2025-06-29 09:00
+R015,Jejuri,Baramati,32,4,Rural,Yes,3,High,Yes,2025-06-29 16:00
+R016,Baramati,Katewadi,12,2,Rural,Yes,1,Medium,Yes,2025-06-30 06:00
+R017,Katewadi,Indapur,20,2.5,Rural,Yes,2,Medium,Yes,2025-06-30 08:30
+R018,Indapur,Malshiras,24,3,Rural,Yes,3,High,Yes,2025-06-30 12:00
+R019,Malshiras,Akluj,16,2,Rural,Yes,2,High,Yes,2025-07-01 06:00
+R020,Akluj,Natepute,20,2,Rural,Yes,2,Medium,Yes,2025-07-01 09:00
+R021,Natepute,Mohol,22,2.5,Rural,Yes,2,Medium,Yes,2025-07-01 12:00
+R022,Mohol,Shegaon,18,2,Rural,Yes,2,Medium,Yes,2025-07-01 14:30
+R023,Shegaon,Vakhari,25,3,Rural,Yes,2,Medium,Yes,2025-07-01 17:30
+R024,Vakhari,Pandharpur,10,1,Urban,Yes,2,Very High,Yes,2025-07-02 06:00
+R025,Dehu,Chinchwad,15,2,Urban,Yes,2,High,Yes,2025-06-26 08:00
+R026,Chinchwad,Pune,18,2,Urban,Yes,2,High,Yes,2025-06-26 10:30
+R027,Pune,Hadapsar,12,2,Urban,Yes,2,High,Yes,2025-06-26 13:00
+R028,Hadapsar,Kondhwa,10,1,Suburban,Yes,1,Medium,Yes,2025-06-26 14:30
+R029,Kondhwa,Loni Kalbhor,13,2,Rural,Yes,1,Medium,Yes,2025-06-26 16:00
+R030,Loni Kalbhor,Patas,22,3,Rural,Yes,2,Medium,Yes,2025-06-27 08:30

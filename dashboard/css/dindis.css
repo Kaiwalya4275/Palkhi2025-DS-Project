@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #fefcea 0%, #f1da36 100%);
+  color: #222;
+  animation: fadeIn 1s ease-in;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(to right, #ff9a00, #ff6a00);
+  color: white;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+header h1 {
+  font-size: 2.8em;
+  margin-bottom: 0.2em;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  font-style: italic;
+  color: #fdf3e7;
+}
+
+section {
+  margin: 40px auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.table-container {
+  overflow-x: visible;
+  overflow-y: visible;
+  background: white;
+  border-radius: 12px;
+  padding: 10px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+  animation: fadeInUp 1s ease-in-out;
+  max-height: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  table-layout: fixed;
+  font-size: 0.82em; 
+  word-wrap: break-word;
+}
+
+table th, table td {
+  padding: 8px; 
+  border: 1px solid #ddd;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table th {
+  background-color: #ffe082;
+  font-weight: bold;
+}
+
+
+
+.chart-box {
+  margin-top: 40px;
+  background: #fff9c4;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  animation: zoomIn 1.2s ease-in-out;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #ff6a00;
+  color: white;
+  margin-top: 50px;
+  font-size: 0.9em;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0 }
+  to { opacity: 1 }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px) }
+  to { opacity: 1; transform: translateY(0) }
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0.95); opacity: 0 }
+  to { transform: scale(1); opacity: 1 }
+}
+
+
+

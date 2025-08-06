@@ -1,0 +1,224 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+convoy_id:
+convoy_id
+TR001    0.033333
+TR002    0.033333
+TR003    0.033333
+TR004    0.033333
+TR005    0.033333
+TR006    0.033333
+TR007    0.033333
+TR008    0.033333
+TR009    0.033333
+TR010    0.033333
+TR011    0.033333
+TR012    0.033333
+TR013    0.033333
+TR014    0.033333
+TR015    0.033333
+TR016    0.033333
+TR017    0.033333
+TR018    0.033333
+TR019    0.033333
+TR020    0.033333
+TR021    0.033333
+TR022    0.033333
+TR023    0.033333
+TR024    0.033333
+TR025    0.033333
+TR026    0.033333
+TR027    0.033333
+TR028    0.033333
+TR029    0.033333
+TR030    0.033333
+Name: proportion, dtype: float64
+
+convoy_name:
+convoy_name
+Shree Vitthal Transport Dindi 1    0.033333
+Bhakt Seva Convoy A                0.033333
+Sai Mandir Transport Unit          0.033333
+Omkar Logistics Team               0.033333
+Jai Malhar Convoy                  0.033333
+Shivtej Cargo Movement             0.033333
+Vitthal Sevak Transport            0.033333
+Ganraj Logistics                   0.033333
+Swami Samarth Convoy               0.033333
+Palkhi Seva Express                0.033333
+Namdev Logistics                   0.033333
+Bhakt Unity Convoy                 0.033333
+Tulsi Cargo Movers                 0.033333
+Haripath Transport                 0.033333
+Gajanan Transport Unit             0.033333
+Anand Darshan Convoy               0.033333
+Narayani Express                   0.033333
+Krishna Movers                     0.033333
+Seva Bhav Convoy                   0.033333
+Shree Krishna Express              0.033333
+Bhakt Ekta Group                   0.033333
+Sant Seva Transport                0.033333
+Om Sai Convoy                      0.033333
+Dindi Cargo Team                   0.033333
+Bhavya Mandal Movers               0.033333
+Varkari Express                    0.033333
+Path Seva Unit                     0.033333
+Vitthal Darshan Movers             0.033333
+Jai Hari Transport                 0.033333
+Bhakti Marg Convoy                 0.033333
+Name: proportion, dtype: float64
+
+vehicle_type:
+vehicle_type
+Dumper    0.033333
+Name: proportion, dtype: float64
+
+origin_village:
+origin_village
+Pune    0.033333
+Name: proportion, dtype: float64
+
+destination_village:
+destination_village
+Hadapsar    0.033333
+Name: proportion, dtype: float64
+
+departure_time:
+departure_time
+2025-06-20 06:00    0.033333
+2025-06-20 09:00    0.033333
+2025-06-20 10:30    0.033333
+2025-06-20 12:00    0.033333
+2025-06-20 14:00    0.033333
+2025-06-20 16:00    0.033333
+2025-06-21 06:00    0.033333
+2025-06-21 08:00    0.033333
+2025-06-21 10:00    0.033333
+2025-06-21 12:00    0.033333
+2025-06-21 14:30    0.033333
+2025-06-21 16:30    0.033333
+2025-06-22 06:00    0.033333
+2025-06-22 09:00    0.033333
+2025-06-22 10:45    0.033333
+2025-06-22 12:30    0.033333
+2025-06-22 14:15    0.033333
+2025-06-22 16:00    0.033333
+2025-06-23 06:00    0.033333
+2025-06-23 08:00    0.033333
+2025-06-23 10:00    0.033333
+2025-06-23 12:00    0.033333
+2025-06-23 14:00    0.033333
+2025-06-23 16:00    0.033333
+2025-06-24 06:00    0.033333
+2025-06-24 08:00    0.033333
+2025-06-24 10:00    0.033333
+2025-06-24 11:30    0.033333
+2025-06-24 13:00    0.033333
+2025-06-24 14:30    0.033333
+Name: proportion, dtype: float64
+
+arrival_time:
+arrival_time
+2025-06-20 08:00    0.033333
+2025-06-20 10:00    0.033333
+2025-06-20 11:30    0.033333
+2025-06-20 13:00    0.033333
+2025-06-20 15:30    0.033333
+2025-06-20 17:15    0.033333
+2025-06-21 07:30    0.033333
+2025-06-21 09:30    0.033333
+2025-06-21 11:30    0.033333
+2025-06-21 13:45    0.033333
+2025-06-21 15:45    0.033333
+2025-06-21 18:00    0.033333
+2025-06-22 08:30    0.033333
+2025-06-22 10:15    0.033333
+2025-06-22 12:00    0.033333
+2025-06-22 13:45    0.033333
+2025-06-22 15:30    0.033333
+2025-06-22 17:00    0.033333
+2025-06-23 07:30    0.033333
+2025-06-23 09:30    0.033333
+2025-06-23 11:30    0.033333
+2025-06-23 13:30    0.033333
+2025-06-23 15:30    0.033333
+2025-06-23 17:15    0.033333
+2025-06-24 07:30    0.033333
+2025-06-24 09:30    0.033333
+2025-06-24 11:00    0.033333
+2025-06-24 12:30    0.033333
+2025-06-24 14:00    0.033333
+2025-06-24 15:45    0.033333
+Name: proportion, dtype: float64
+
+cargo_type:
+cargo_type
+Food Grains                 0.033333
+Medical Supplies            0.033333
+Volunteer Kits              0.033333
+Sound Equipment             0.033333
+Stage Setup                 0.033333
+Drinking Water              0.033333
+Generators                  0.033333
+Tents & Poles               0.033333
+First Aid Kits              0.033333
+Food Parcels                0.033333
+Waste Disposal Bags         0.033333
+Light Fixtures              0.033333
+Bhajan Instruments          0.033333
+Chairs & Benches            0.033333
+Sleeping Mats               0.033333
+Drinking Water Canisters    0.033333
+Plastic Plates              0.033333
+Dry Snacks                  0.033333
+Cooking Oil                 0.033333
+Folding Beds                0.033333
+Hand Fans                   0.033333
+Blankets                    0.033333
+Pilgrim Kits                0.033333
+Tea Flasks                  0.033333
+PA Systems                  0.033333
+Coconut Water               0.033333
+LED Displays                0.033333
+Sanitation Kits             0.033333
+Name: proportion, dtype: float64
+
+driver_name:
+driver_name
+Avinash Pawar         0.033333
+Vikrant Patil         0.033333
+Neel Joshi            0.033333
+Sudhir Kale           0.033333
+Anand Jadhav          0.033333
+Pratik Shinde         0.033333
+Nitin Shinde          0.033333
+Ashok Deshmukh        0.033333
+Sachin Ghuge          0.033333
+Rahul Thorat          0.033333
+Shivaji Bhujbal       0.033333
+Vaibhav Mane          0.033333
+Ramesh Salve          0.033333
+Ajay Nikam            0.033333
+Vishal Gade           0.033333
+Ravindra Shitole      0.033333
+Sunil Pawar           0.033333
+Rushikesh Patil       0.033333
+Sambhaji Khandekar    0.033333
+Swapnil Naik          0.033333
+Milind Dighe          0.033333
+Dattatray Ingle       0.033333
+Amol Barate           0.033333
+Vikram Lokhande       0.033333
+Sameer Ghule          0.033333
+Nilesh Sawant         0.033333
+Akash Zende           0.033333
+Shantanu Kale         0.033333
+Sachin Gaikwad        0.033333
+Vivek Kadam           0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---

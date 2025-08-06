@@ -1,0 +1,134 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+dindi_id:
+dindi_id
+D001    0.033333
+D002    0.033333
+D003    0.033333
+D004    0.033333
+D005    0.033333
+D006    0.033333
+D007    0.033333
+D008    0.033333
+D009    0.033333
+D010    0.033333
+D011    0.033333
+D012    0.033333
+D013    0.033333
+D014    0.033333
+D015    0.033333
+D016    0.033333
+D017    0.033333
+D018    0.033333
+D019    0.033333
+D020    0.033333
+D021    0.033333
+D022    0.033333
+D023    0.033333
+D024    0.033333
+D025    0.033333
+D026    0.033333
+D027    0.033333
+D028    0.033333
+D029    0.033333
+D030    0.033333
+Name: proportion, dtype: float64
+
+dindi_name:
+dindi_name
+Sant Tukaram Mauli Dindi           0.033333
+Shree Kunjirwadi Bhakt Dindi       0.033333
+Theur Bhajan Mandal Dindi          0.033333
+Vitthal Mitra Mandal Dindi         0.033333
+Hadapsar Tukaram Bhakta Dindi      0.033333
+Loni Kalbhor Tukaram Dindi         0.033333
+Uruli Kanchan Sant Dindi           0.033333
+Yavat Tukaram Seva Dindi           0.033333
+Varvand Bhajan Mandali Dindi       0.033333
+Baramati Varkari Sangh Dindi       0.033333
+Indapur Tukaram Maharaj Dindi      0.033333
+Akluj Tukaram Bhakt Niwas Dindi    0.033333
+Natepute Sant Bhakti Dindi         0.033333
+Nimgaon Ketki Dindi Mandal         0.033333
+Borgaon Warkari Pathak Dindi       0.033333
+Shegaon Vithoba Bhakt Dindi        0.033333
+Wakhari Bhajan Seva Dindi          0.033333
+Pirachi Kuroli Tukaram Dindi       0.033333
+Anthurne Varkari Bhakti Dindi      0.033333
+Velapur Dindi Seva Mandal          0.033333
+Shree Mauli Dindi Kunjirwadi       0.033333
+Theur Vithoba Dindi Pathak         0.033333
+Yavat Tukaram Bhajan Dindi         0.033333
+Daund Bhakti Prem Dindi            0.033333
+Varvand Warkari Bhajan Mandal      0.033333
+Baramati Sant Tukaram Dindi        0.033333
+Indapur Bhakti Seva Dindi          0.033333
+Akluj Bhajan Mandal Dindi          0.033333
+Natepute Vithoba Prem Dindi        0.033333
+Nimgaon Tukaram Warkari Dindi      0.033333
+Name: proportion, dtype: float64
+
+origin_village:
+origin_village
+Hadapsar          0.033333
+Pune              0.033333
+Dehu              0.033333
+Loni Kalbhor      0.033333
+Uruli Kanchan     0.033333
+Borgaon           0.033333
+Shegaon           0.033333
+Wakhari           0.033333
+Pirachi Kuroli    0.033333
+Anthurne          0.033333
+Velapur           0.033333
+Daund             0.033333
+Name: proportion, dtype: float64
+
+gender_ratio:
+gender_ratio
+62:38    0.033333
+57:43    0.033333
+56:44    0.033333
+Name: proportion, dtype: float64
+
+group_leader:
+group_leader
+Vishwanath Jadhav    0.033333
+Ashok Shinde         0.033333
+Meera Pawar          0.033333
+Sachin Patil         0.033333
+Ramani Bhagat        0.033333
+Ramesh Pawar         0.033333
+Priyanka Shinde      0.033333
+Vikas Ghorpade       0.033333
+Ritika Bhosale       0.033333
+Sunil Deshmukh       0.033333
+Kanchan Kale         0.033333
+Shivaji Gaikwad      0.033333
+Namdev Rathod        0.033333
+Sudhir Lokhande      0.033333
+Nitin Pal            0.033333
+Ravi Jadhav          0.033333
+Preeti Shinde        0.033333
+Sanjay Kulkarni      0.033333
+Geeta More           0.033333
+Amol Deshmukh        0.033333
+Deepa Kale           0.033333
+Sunita Rane          0.033333
+Anand Patil          0.033333
+Ramesh More          0.033333
+Maya Pawar           0.033333
+Rahul Shinde         0.033333
+Sneha Ghorpade       0.033333
+Shubham Desai        0.033333
+Tejas Mane           0.033333
+Ritika Kamble        0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+total_participants: 1 outliers

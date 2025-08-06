@@ -1,0 +1,93 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+security_id:
+security_id
+S001    0.033333
+S002    0.033333
+S003    0.033333
+S004    0.033333
+S005    0.033333
+S006    0.033333
+S007    0.033333
+S008    0.033333
+S009    0.033333
+S010    0.033333
+S011    0.033333
+S012    0.033333
+S013    0.033333
+S014    0.033333
+S015    0.033333
+S016    0.033333
+S017    0.033333
+S018    0.033333
+S019    0.033333
+S020    0.033333
+S021    0.033333
+S022    0.033333
+S023    0.033333
+S024    0.033333
+S025    0.033333
+S026    0.033333
+S027    0.033333
+S028    0.033333
+S029    0.033333
+S030    0.033333
+Name: proportion, dtype: float64
+
+time_slot:
+time_slot
+16:00–20:00    0.033333
+05:00–09:00    0.033333
+12:00–16:00    0.033333
+06:00–10:00    0.033333
+12:00–14:00    0.033333
+06:00–12:00    0.033333
+14:00–16:00    0.033333
+07:00–10:00    0.033333
+10:00–13:00    0.033333
+14:00–18:00    0.033333
+16:00–19:00    0.033333
+20:00–22:00    0.033333
+10:00–12:00    0.033333
+18:00–22:00    0.033333
+Name: proportion, dtype: float64
+
+notes:
+notes
+Large crowd expected            0.033333
+Traffic congestion managed      0.033333
+Dindi halt                      0.033333
+Flag-off ceremony               0.033333
+Major food distribution zone    0.033333
+Firecracker control             0.033333
+VIP visit                       0.033333
+Heat-related check posts        0.033333
+Evening jam                     0.033333
+Final darshan crowd             0.033333
+Initial discipline              0.033333
+Traffic diversion               0.033333
+Bridge patrol                   0.033333
+First aid camp                  0.033333
+Small halt                      0.033333
+Medical emergencies handled     0.033333
+Mayor rally joined              0.033333
+Scattered crowd                 0.033333
+Mid-route control               0.033333
+Darshan final hours             0.033333
+Volunteer managed               0.033333
+Chowk congestion                0.033333
+Rerouting completed             0.033333
+Temporary barricades            0.033333
+Overnight halt                  0.033333
+Water points                    0.033333
+Sound system managed            0.033333
+Darshan line control            0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+security_personnel_count: 3 outliers

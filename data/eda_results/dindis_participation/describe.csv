@@ -1,0 +1,12 @@
+,dindi_id,dindi_name,origin_village,total_participants,age_group,gender_ratio,musical_instruments,years_participated,group_leader,contact_number
+count,30,30,30,30.0,30,30,30,30.0,30,30.0
+unique,30,30,21,,4,11,7,,30,
+top,D001,Sant Tukaram Mauli Dindi,Kunjirwadi,,Adult,50:50,Lezim,,Vishwanath Jadhav,
+freq,1,1,2,,12,7,10,,1,
+mean,,,,300.1666666666667,,,,9.633333333333333,,9832562098.866667
+std,,,,19.977717472281434,,,,4.649681734257202,,43866636.73655125
+min,,,,260.0,,,,3.0,,9734567889.0
+25%,,,,286.25,,,,6.0,,9810201804.75
+50%,,,,300.0,,,,9.0,,9823456751.0
+75%,,,,310.0,,,,12.0,,9874155844.5
+max,,,,350.0,,,,20.0,,9898989890.0

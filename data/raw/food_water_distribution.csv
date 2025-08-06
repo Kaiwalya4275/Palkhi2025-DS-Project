@@ -1,0 +1,22 @@
+palkhi_name,day_number,date,village_name,meal_type,provider_type,provider_name,no_of_dindis_served,estimated_people_served,food_items,water_litres,time_of_distribution,issues_reported,issue_details
+Sant Tukaram,1,2025-06-09,Alandi,Lunch,Temple Trust,Shree Vitthal Mandir Samiti,42,3100,Khichdi, Puri, Jalebi, 1500,13:00,No,
+Sant Tukaram,2,2025-06-10,Dighi,Breakfast,NGO,Sant Seva Sangh,38,2800,Poha, Tea, 1000,08:30,No,
+Sant Tukaram,2,2025-06-10,Dighi,Lunch,Local People,Lokmanya Nagar Residents,40,3000,Chapati, Bhaji, Dal, 1300,12:45,Yes,Not enough seating arrangement
+Sant Tukaram,3,2025-06-11,Bhosari,Water only,Government,Pimpri Health Dept,NA,NA,,900,10:15,No,
+Sant Tukaram,3,2025-06-11,Bhosari,Dinner,NGO,Anand Ashram Trust,35,2500,Rice, Sambar, Sweet, 1100,19:00,Yes,One food van arrived late
+Sant Tukaram,4,2025-06-12,Pimpri,Breakfast,Temple Trust,Siddhivinayak Mandir,40,2700,Upma, Tea, 1200,08:00,No,
+Sant Tukaram,5,2025-06-13,Indapur,Lunch,NGO,Sai Seva Samiti,36,2900,Puran Poli, Bhaji, Rice, Buttermilk, 1200,12:45,Yes,Shortage of plates and delay of 20 mins
+Sant Tukaram,6,2025-06-14,Akurdi,Dinner,Local People,Akurdi Youth Group,39,2750,Khichdi, Papad, Curd, 1250,19:15,No,
+Sant Tukaram,7,2025-06-15,Dehu Road,Breakfast,NGO,Nisarg Mitra Foundation,33,2400,Poha, Tea, 1000,08:20,No,
+Sant Tukaram,8,2025-06-16,Khed,Lunch,Government,PCMC Disaster Relief,45,3300,Chapati, Bhaji, Rice, 1400,13:10,No,
+
+Sant Dnyaneshwar,1,2025-06-09,Dehu,Lunch,Temple Trust,Shree Vitthal Mandir Samiti,41,3000,Khichdi, Puri, Jalebi, 1500,13:00,No,
+Sant Dnyaneshwar,2,2025-06-10,Bhosari,Breakfast,Local People,Bhosari Senior Citizens Forum,39,2700,Upma, Tea, 1100,08:10,No,
+Sant Dnyaneshwar,2,2025-06-10,Bhosari,Lunch,NGO,Gnyaneshwar Seva Mandal,40,2800,Roti, Dal, Bhaji, 1300,13:00,No,
+Sant Dnyaneshwar,3,2025-06-11,Vishrantwadi,Water only,Government,Pune Zilla Parishad,NA,NA,,950,10:30,No,
+Sant Dnyaneshwar,3,2025-06-11,Vishrantwadi,Dinner,NGO,Annapurna Seva Trust,35,2600,Rice, Sambar, Pickle, 1100,18:50,Yes,Food was slightly undercooked
+Sant Dnyaneshwar,4,2025-06-12,Yerwada,Breakfast,Temple Trust,Dnyaneshwar Bhakta Mandal,37,2550,Idli, Chutney, Tea, 1050,08:00,No,
+Sant Dnyaneshwar,5,2025-06-13,Koregaon Park,Lunch,NGO,Aarambh Foundation,38,2750,Chapati, Bhaji, Dal, 1150,12:40,No,
+Sant Dnyaneshwar,6,2025-06-14,Hinjewadi,Dinner,Local People,Hinjewadi Residents Association,40,2850,Rice, Sweet, Bhaji, 1250,19:10,No,
+Sant Dnyaneshwar,7,2025-06-15,Mulshi,Breakfast,NGO,Forest Seva Group,36,2500,Poha, Tea, 950,08:15,Yes,Rain delayed distribution by 30 mins
+Sant Dnyaneshwar,8,2025-06-16,Tamhini Ghat,Lunch,Government,Mulshi Taluka Office,44,3200,Khichdi, Curd, Pickle, 1350,13:30,No,

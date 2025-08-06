@@ -1,0 +1,79 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+center_id:
+center_id
+MS001    0.033333
+MS002    0.033333
+MS003    0.033333
+MS004    0.033333
+MS005    0.033333
+MS006    0.033333
+MS007    0.033333
+MS008    0.033333
+MS009    0.033333
+MS010    0.033333
+MS011    0.033333
+MS012    0.033333
+MS013    0.033333
+MS014    0.033333
+MS015    0.033333
+MS016    0.033333
+MS017    0.033333
+MS018    0.033333
+MS019    0.033333
+MS020    0.033333
+MS021    0.033333
+MS022    0.033333
+MS023    0.033333
+MS024    0.033333
+MS025    0.033333
+MS026    0.033333
+MS027    0.033333
+MS028    0.033333
+MS029    0.033333
+MS030    0.033333
+Name: proportion, dtype: float64
+
+incharge_name:
+incharge_name
+Dr. Amol K.        0.033333
+Dr. Reena Joshi    0.033333
+Dr. Rajesh B.      0.033333
+Dr. Pooja M.       0.033333
+Dr. Sanjay N.      0.033333
+Dr. Smita P.       0.033333
+Dr. Nikhil D.      0.033333
+Dr. Shweta J.      0.033333
+Dr. Anand G.       0.033333
+Dr. Manisha R.     0.033333
+Dr. Vikram S.      0.033333
+Dr. Meenal T.      0.033333
+Dr. Kiran D.       0.033333
+Dr. Akshay P.      0.033333
+Dr. Vaidehi S.     0.033333
+Dr. Neeraj M.      0.033333
+Dr. Preeti N.      0.033333
+Dr. Yogesh R.      0.033333
+Dr. Nisha K.       0.033333
+Dr. Mahesh C.      0.033333
+Dr. Sangeeta W.    0.033333
+Dr. Amit G.        0.033333
+Dr. Tanvi Z.       0.033333
+Dr. Harish M.      0.033333
+Dr. Snehal S.      0.033333
+Dr. Bhushan P.     0.033333
+Dr. Divya R.       0.033333
+Dr. Ashwin J.      0.033333
+Dr. Karishma D.    0.033333
+Dr. Deepak B.      0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+medical_staff_count: 2 outliers
+
+avg_patients_per_day: 3 outliers

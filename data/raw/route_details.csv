@@ -1,0 +1,22 @@
+palkhi_name,day_number,date,from_village,to_village,distance_km,rest_stop,halt_location,terrain_type,weather_condition,important_notes
+Sant Tukaram,1,2025-06-09,Dehu,Alandi,19.2,Yes,Gatha Mandir Ground,Urban,Sunny,Joint halt with Sant Dnyaneshwar Palkhi
+Sant Tukaram,2,2025-06-10,Alandi,Dighi,17.5,No,,Plain,Cloudy,
+Sant Tukaram,3,2025-06-11,Dighi,Bhosari,14.0,Yes,Open Ground near MIDC,Hilly,Rainy,Muddy patch near bridge
+Sant Tukaram,4,2025-06-12,Bhosari,Pimpri,12.3,Yes,ZP School Ground,Urban,Cloudy,Crowded urban stretch
+Sant Tukaram,5,2025-06-13,Pimpri,Chinchwad,8.7,No,,Urban,Sunny,
+Sant Tukaram,6,2025-06-14,Chinchwad,Akurdi,10.5,Yes,Akurdi Sports Complex,Plain,Sunny,
+Sant Tukaram,7,2025-06-15,Akurdi,Dehu Road,11.8,Yes,Dehu Road Cantonment Ground,Hilly,Rainy,Traffic diversion at NH4
+Sant Tukaram,8,2025-06-16,Dehu Road,Khed,22.1,No,,Plain,Sunny,
+Sant Tukaram,9,2025-06-17,Khed,Chakan,18.4,Yes,Chakan Bus Depot Ground,Plain,Cloudy,Water station at 10km
+Sant Tukaram,10,2025-06-18,Chakan,Shikrapur,26.3,Yes,Shikrapur Temple Premises,Plain,Sunny,Longest stretch before rest
+
+Sant Dnyaneshwar,1,2025-06-09,Alandi,Dehu,19.2,Yes,Gatha Mandir Ground,Urban,Sunny,Joint halt with Sant Tukaram Palkhi
+Sant Dnyaneshwar,2,2025-06-10,Dehu,Bhosari,16.0,Yes,St. Ursula School Ground,Plain,Cloudy,
+Sant Dnyaneshwar,3,2025-06-11,Bhosari,Vishrantwadi,14.5,No,,Urban,Rainy,Narrow road under flyover
+Sant Dnyaneshwar,4,2025-06-12,Vishrantwadi,Yerwada,12.9,Yes,Yerwada Central Ground,Urban,Sunny,Police barricades in place
+Sant Dnyaneshwar,5,2025-06-13,Yerwada,Koregaon Park,10.2,No,,Urban,Cloudy,
+Sant Dnyaneshwar,6,2025-06-14,Koregaon Park,Hinjewadi,21.5,Yes,Hinjewadi Phase 1 Ground,Hilly,Sunny,Private vehicle traffic control
+Sant Dnyaneshwar,7,2025-06-15,Hinjewadi,Mulshi,25.8,Yes,Mulshi Lake View Point,Hilly,Rainy,Slippery forest path
+Sant Dnyaneshwar,8,2025-06-16,Mulshi,Tamhini Ghat,18.9,Yes,Tamhini Forest Camp,Hilly,Rainy,Medical camp set up
+Sant Dnyaneshwar,9,2025-06-17,Tamhini Ghat,Nizampur,24.1,No,,Hilly,Cloudy,Emergency vehicle stationed
+Sant Dnyaneshwar,10,2025-06-18,Nizampur,Kolad,20.0,Yes,Kolad Riverbank Hall,Plain,Sunny,Final halt before major transition

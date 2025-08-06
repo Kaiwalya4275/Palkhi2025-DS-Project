@@ -1,0 +1,126 @@
+
+--- Group by event_id (Top 5) ---
+event_id
+CE001    1
+CE002    1
+CE003    1
+CE004    1
+CE005    1
+Name: count, dtype: int64
+
+--- Group by event_name (Top 5) ---
+event_name
+Bhajan Sandhya         1
+Kirtan Sabha           1
+Dindi Nritya           1
+Sant Charitra Katha    1
+Palkhi Utsav Sohla     1
+Name: count, dtype: int64
+
+--- Group by date (Top 5) ---
+date
+2025-06-23    7
+2025-06-20    6
+2025-06-22    6
+2025-06-21    5
+2025-06-24    5
+Name: count, dtype: int64
+
+--- Group by time (Top 5) ---
+time
+20:00    5
+17:30    3
+19:30    3
+20:30    3
+18:00    2
+Name: count, dtype: int64
+
+--- Group by village_name (Top 5) ---
+village_name
+Kunjirwadi    3
+Theur         3
+Yavat         3
+Daund         3
+Varvand       3
+Name: count, dtype: int64
+
+--- Group by organizing_group (Top 5) ---
+organizing_group
+Sant Tukaram Dindi Mandal        1
+Narayani Varkari Group           1
+Jai Malhar Kala Pathak           1
+Tukaram Maharaj Prasar Mandal    1
+Mauli Yatra Mandal               1
+Name: count, dtype: int64
+
+--- Group by event_type (Top 5) ---
+event_type
+Kirtan        3
+Bhajan        2
+Singing       2
+Folk Dance    2
+Workshop      2
+Name: count, dtype: int64
+
+--- Mean of expected_audience by event_id (Top 5) ---
+event_id
+CE020    1000.0
+CE030     800.0
+CE010     700.0
+CE019     500.0
+CE009     500.0
+Name: expected_audience, dtype: float64
+
+--- Mean of expected_audience by event_name (Top 5) ---
+event_name
+Final Bhajan Darbar     1000.0
+Final Aarti & Bhajan     800.0
+Abhang Vachan            700.0
+Nama Sankirtan           500.0
+Namasmaran Yatra         500.0
+Name: expected_audience, dtype: float64
+
+--- Mean of expected_audience by date (Top 5) ---
+date
+2025-06-25    800.000000
+2025-06-24    590.000000
+2025-06-23    251.428571
+2025-06-22    250.000000
+2025-06-20    218.333333
+Name: expected_audience, dtype: float64
+
+--- Mean of expected_audience by time (Top 5) ---
+time
+18:45    700.0
+20:30    650.0
+07:00    500.0
+19:30    400.0
+19:00    350.0
+Name: expected_audience, dtype: float64
+
+--- Mean of expected_audience by village_name (Top 5) ---
+village_name
+Pandharpur    833.333333
+Akluj         416.666667
+Indapur       333.333333
+Varvand       273.333333
+Baramati      263.333333
+Name: expected_audience, dtype: float64
+
+--- Mean of expected_audience by organizing_group (Top 5) ---
+organizing_group
+Palkhi Bhajan Mandal       1000.0
+Shree Dindi Seva Mandal     800.0
+Pandhari Bhakt Mandal       700.0
+Vithoba Seva Mandal         500.0
+Nama Seva Group             500.0
+Name: expected_audience, dtype: float64
+
+--- Mean of expected_audience by event_type (Top 5) ---
+event_type
+Bhajan + Aarti    800.0
+Abhang Singing    700.0
+Bhajan            650.0
+Procession        500.0
+Sankirtan         500.0
+Name: expected_audience, dtype: float64

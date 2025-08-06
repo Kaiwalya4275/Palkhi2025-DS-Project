@@ -1,0 +1,4 @@
+Encoded column: terrain_type
+Encoded column: medical_camp
+Encoded column: police_presence
+Encoded column: traffic_control

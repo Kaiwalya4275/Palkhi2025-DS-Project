@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Transport Logistics | Palkhi 2025</title>
+  <link rel="stylesheet" href="../css/dindis.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.min.js"></script>
+
+</head>
+<body>
+  <header class="page-header">
+    <h1> Transport Logistics Dashboard</h1>
+  </header>
+
+  <main class="main-content">
+    <section class="data-table-section">
+      <h2>Convoy Transport Table</h2>
+      <div class="table-container">
+        <table id="transport-table">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="charts-section">
+      <h2>Transport Visual Insights</h2>
+      <div class="chart-container"><canvas id="vehicleTypeChart"></canvas></div>
+      <div class="chart-container"><canvas id="cargoBarChart"></canvas></div>
+      <div class="chart-container"><canvas id="durationLineChart"></canvas></div>
+      <div class="chart-container"><canvas id="vehicleWeightChart"></canvas></div>
+    </section>
+  </main>
+
+  <footer class="page-footer">
+    <p>&copy; 2025 Palkhi Dashboard | Designed with  by Kaiwalya</p>
+  </footer>
+
+  <script src="../js/transport.js"></script>
+</body>
+</html>

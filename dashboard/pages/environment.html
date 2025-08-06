@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Environmental Impact - Palkhi 2025</title>
+  <link rel="stylesheet" href="../css/dindis.css" />
+</head>
+<body>
+  <header>
+    <h1> Environmental Impact Report - Palkhi 2025</h1>
+    <p class="subtitle">Real-time eco-data monitoring during the wari</p>
+  </header>
+
+  <section>
+    <h2> Summary Table</h2>
+    <div class="data-table">
+      <table id="environmentTable">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Village</th>
+            <th>Date</th>
+            <th>Waste (kg)</th>
+            <th>Plastic (kg)</th>
+            <th>Recycling</th>
+            <th>Banned Plastic</th>
+            <th>Score</th>
+            <th>Volunteers</th>
+            <th>Campaigns</th>
+            <th>Zone</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="chart-grid">
+    <div>
+      <h3>Waste Collected (Top 10)</h3>
+      <canvas id="wasteChart"></canvas>
+    </div>
+    <div>
+      <h3>Plastic vs Recyclables</h3>
+      <canvas id="plasticChart"></canvas>
+    </div>
+    <div>
+      <h3>Enforcement Scores</h3>
+      <canvas id="enforcementChart"></canvas>
+    </div>
+    <div>
+      <h3>Volunteers Participation</h3>
+      <canvas id="volunteerChart"></canvas>
+    </div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="../js/environment.js"></script>
+</body>
+</html>

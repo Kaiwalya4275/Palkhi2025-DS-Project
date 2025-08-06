@@ -1,0 +1,5 @@
+Extracted year, month, day from start_date
+Extracted year, month, day from end_date
+Encoded column: gender
+Encoded column: village_name
+Encoded column: role

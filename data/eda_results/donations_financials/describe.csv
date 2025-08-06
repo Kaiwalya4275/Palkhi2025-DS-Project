@@ -1,0 +1,12 @@
+,donation_id,village,date,donor_type,donor_name,amount_received,expense_category,amount_spent,mode_of_payment,remarks
+count,30,30,30,30,30,30.0,30,30.0,30,30
+unique,30,27,17,5,30,,14,,3,30
+top,D001,Pandharpur,2025-07-05,Individual,Dehu Trust,,Cultural,,Cash,Seed funding for dindis
+freq,1,3,5,7,1,,5,,18,1
+mean,,,,,,63333.333333333336,,60100.0,,
+std,,,,,,36491.22079901272,,33861.126119326946,,
+min,,,,,,20000.0,,19000.0,,
+25%,,,,,,36250.0,,35000.0,,
+50%,,,,,,55000.0,,51500.0,,
+75%,,,,,,80000.0,,78000.0,,
+max,,,,,,200000.0,,180000.0,,

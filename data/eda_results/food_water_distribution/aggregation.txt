@@ -1,0 +1,216 @@
+
+--- Group by distribution_id (Top 5) ---
+distribution_id
+FD001    1
+FD002    1
+FD003    1
+FD004    1
+FD005    1
+Name: count, dtype: int64
+
+--- Group by team_name (Top 5) ---
+team_name
+Sant Seva Bhakt Mandal     1
+Vitthal Anna Foundation    1
+Jai Hari Mandal            1
+Om Bhakt Seva Group        1
+Mauli Bhakt Sangh          1
+Name: count, dtype: int64
+
+--- Group by village_name (Top 5) ---
+village_name
+Kunjirwadi    3
+Theur         3
+Daund         3
+Yavat         3
+Varvand       3
+Name: count, dtype: int64
+
+--- Group by distribution_type (Top 5) ---
+distribution_type
+Food Packets      6
+Drinking Water    6
+Fruits            5
+Snacks            3
+Tea               3
+Name: count, dtype: int64
+
+--- Group by unit (Top 5) ---
+unit
+litres     13
+packets     6
+kg          5
+packs       5
+plates      1
+Name: count, dtype: int64
+
+--- Group by start_time (Top 5) ---
+start_time
+2025-06-20 08:00    1
+2025-06-20 10:00    1
+2025-06-20 12:00    1
+2025-06-20 14:00    1
+2025-06-20 16:00    1
+Name: count, dtype: int64
+
+--- Group by end_time (Top 5) ---
+end_time
+2025-06-20 09:30    1
+2025-06-20 11:30    1
+2025-06-20 13:30    1
+2025-06-20 15:15    1
+2025-06-20 17:00    1
+Name: count, dtype: int64
+
+--- Group by responsible_person (Top 5) ---
+responsible_person
+Vilas Ghadge         1
+Ramesh Dhole         1
+Sachin Waghmare      1
+Sanjay Shitole       1
+Ravindra Salunkhe    1
+Name: count, dtype: int64
+
+--- Mean of quantity by distribution_id (Top 5) ---
+distribution_id
+FD009    1800.0
+FD030    1700.0
+FD002    1500.0
+FD016    1400.0
+FD025    1300.0
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by distribution_id (Top 5) ---
+distribution_id
+FD016    9.978421e+09
+FD020    9.897623e+09
+FD021    9.876543e+09
+FD005    9.874521e+09
+FD012    9.845124e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by team_name (Top 5) ---
+team_name
+Namdev Bhakt Samiti        1800.0
+Shree Palkhi Jal Seva      1700.0
+Vitthal Anna Foundation    1500.0
+Bhakt Dindi Mahasangh      1400.0
+Sant Charan Mandal         1300.0
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by team_name (Top 5) ---
+team_name
+Bhakt Dindi Mahasangh    9.978421e+09
+Ganraj Mandal            9.897623e+09
+Sai Bhakt Group          9.876543e+09
+Mauli Bhakt Sangh        9.874521e+09
+Narayani Mahila Group    9.845124e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by village_name (Top 5) ---
+village_name
+Varvand       983.333333
+Akluj         926.666667
+Theur         883.333333
+Pandharpur    856.666667
+Patas         840.000000
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by village_name (Top 5) ---
+village_name
+Yavat         9.726675e+09
+Patas         9.603296e+09
+Pandharpur    9.580512e+09
+Indapur       9.565353e+09
+Daund         9.555884e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by distribution_type (Top 5) ---
+distribution_type
+Drinking Water    1483.333333
+Food Packets       800.000000
+Pilgrim Meals      600.000000
+Biscuits           550.000000
+Fruits             500.000000
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by distribution_type (Top 5) ---
+distribution_type
+Lassi            9.845123e+09
+Buttermilk       9.841543e+09
+Lemon Juice      9.798652e+09
+Pilgrim Meals    9.765123e+09
+Biscuits         9.707451e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by unit (Top 5) ---
+unit
+litres     805.384615
+packets    800.000000
+plates     600.000000
+packs      506.000000
+kg         500.000000
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by unit (Top 5) ---
+unit
+plates     9.765123e+09
+packets    9.670037e+09
+litres     9.510132e+09
+packs      9.490376e+09
+kg         9.293855e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by start_time (Top 5) ---
+start_time
+2025-06-21 12:00    1800.0
+2025-06-24 11:00    1700.0
+2025-06-20 10:00    1500.0
+2025-06-22 13:30    1400.0
+2025-06-23 15:00    1300.0
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by start_time (Top 5) ---
+start_time
+2025-06-22 13:30    9.978421e+09
+2025-06-23 07:30    9.897623e+09
+2025-06-23 09:00    9.876543e+09
+2025-06-20 16:00    9.874521e+09
+2025-06-22 07:30    9.845124e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by end_time (Top 5) ---
+end_time
+2025-06-21 13:00    1800.0
+2025-06-24 12:00    1700.0
+2025-06-20 11:30    1500.0
+2025-06-22 14:30    1400.0
+2025-06-23 16:00    1300.0
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by end_time (Top 5) ---
+end_time
+2025-06-22 14:30    9.978421e+09
+2025-06-23 08:30    9.897623e+09
+2025-06-23 10:00    9.876543e+09
+2025-06-20 17:00    9.874521e+09
+2025-06-22 08:30    9.845124e+09
+Name: contact_number, dtype: float64
+
+--- Mean of quantity by responsible_person (Top 5) ---
+responsible_person
+Mahadev Wani     1800.0
+Nilesh Landge    1700.0
+Ramesh Dhole     1500.0
+Harish Salvi     1400.0
+Ajit Wagh        1300.0
+Name: quantity, dtype: float64
+
+--- Mean of contact_number by responsible_person (Top 5) ---
+responsible_person
+Harish Salvi         9.978421e+09
+Rajendra Nale        9.897623e+09
+Rupesh Zope          9.876543e+09
+Ravindra Salunkhe    9.874521e+09
+Sujata Pawar         9.845124e+09
+Name: contact_number, dtype: float64

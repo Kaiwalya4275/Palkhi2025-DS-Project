@@ -1,0 +1,11 @@
+palkhi_name,day_number,date,village_name,waste_collected_kg,cleanup_agency,recyclables_separated,plastic_banned,enforcement_score,remarks
+Sant Tukaram,2,2025-06-10,Dighi,380,Sai Safai Seva,Yes,Yes,8,Community-led initiative
+Sant Tukaram,3,2025-06-11,Bhosari,420,PMC Cleanup Team,Yes,Yes,7,Plastic ban partially violated
+Sant Tukaram,5,2025-06-13,Indapur,460,Youth Green Force,Yes,No,6,Need stricter enforcement
+Sant Dnyaneshwar,3,2025-06-11,Vishrantwadi,390,Green Brigade,Yes,Yes,9,Excellent segregation
+Sant Dnyaneshwar,4,2025-06-12,Yerwada,310,Swachh Pune Team,No,Yes,8,Managed efficiently
+Sant Dnyaneshwar,5,2025-06-13,Koregaon Park,370,Smart City Volunteers,Yes,Yes,7,Public bins overflowed
+Sant Dnyaneshwar,6,2025-06-14,Hinjewadi,410,Eco Warriors,Yes,No,6,Rain caused delay
+Sant Tukaram,6,2025-06-14,Akurdi,345,Gram Panchayat Force,No,Yes,5,Low volunteer turnout
+Sant Dnyaneshwar,7,2025-06-15,Mulshi,290,Forest Cleanup Squad,Yes,Yes,9,Remote area but clean
+Sant Tukaram,7,2025-06-15,Dehu Road,375,School Eco Club,Yes,Yes,8,Children actively participated

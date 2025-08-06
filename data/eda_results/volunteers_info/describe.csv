@@ -1,0 +1,12 @@
+,volunteer_id,volunteer_name,age,gender,contact_number,village_name,team_name,role,start_date,end_date
+count,30,30,30.0,30,30.0,30,30,30,30,30
+unique,30,30,,2,,10,30,15,5,5
+top,V001,Swapnil Gawde,,Male,,Kunjirwadi,Sant Seva Bhakt Mandal,Food Distribution,2025-06-20,2025-06-25
+freq,1,1,,15,,3,1,6,9,10
+mean,,,26.233333333333334,,9451496801.466667,,,,,
+std,,,3.0702502799624,,307778504.4036814,,,,,
+min,,,21.0,,9012347865.0,,,,,
+25%,,,24.0,,9145973340.0,,,,,
+50%,,,26.0,,9478736184.5,,,,,
+75%,,,28.75,,9743709882.0,,,,,
+max,,,32.0,,9987654321.0,,,,,

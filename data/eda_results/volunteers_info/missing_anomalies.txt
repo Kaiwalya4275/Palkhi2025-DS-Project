@@ -1,0 +1,122 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+volunteer_id:
+volunteer_id
+V001    0.033333
+V002    0.033333
+V003    0.033333
+V004    0.033333
+V005    0.033333
+V006    0.033333
+V007    0.033333
+V008    0.033333
+V009    0.033333
+V010    0.033333
+V011    0.033333
+V012    0.033333
+V013    0.033333
+V014    0.033333
+V015    0.033333
+V016    0.033333
+V017    0.033333
+V018    0.033333
+V019    0.033333
+V020    0.033333
+V021    0.033333
+V022    0.033333
+V023    0.033333
+V024    0.033333
+V025    0.033333
+V026    0.033333
+V027    0.033333
+V028    0.033333
+V029    0.033333
+V030    0.033333
+Name: proportion, dtype: float64
+
+volunteer_name:
+volunteer_name
+Swapnil Gawde      0.033333
+Sujata Thorat      0.033333
+Ajinkya Ingle      0.033333
+Mayuri Patil       0.033333
+Vijay Salunkhe     0.033333
+Manisha Pawar      0.033333
+Rahul Bhosale      0.033333
+Sonali Jadhav      0.033333
+Sagar Kharat       0.033333
+Neha Wani          0.033333
+Vishal Ghadge      0.033333
+Komal Landge       0.033333
+Kunal Waghmare     0.033333
+Shweta Deshmukh    0.033333
+Nikhil Shitole     0.033333
+Archana Salvi      0.033333
+Pravin Kadam       0.033333
+Sonal Gaikwad      0.033333
+Omkar Shelke       0.033333
+Kranti Nale        0.033333
+Tejas Zope         0.033333
+Rekha Babar        0.033333
+Shubham Dandge     0.033333
+Deepali Ingle      0.033333
+Ashish Thorat      0.033333
+Manasi Wani        0.033333
+Rajesh Ingle       0.033333
+Seema Gavhane      0.033333
+Satish Kulkarni    0.033333
+Megha Landge       0.033333
+Name: proportion, dtype: float64
+
+team_name:
+team_name
+Sant Seva Bhakt Mandal              0.033333
+Narayani Mahila Group               0.033333
+Jai Malhar Mandal                   0.033333
+Varkari Bhakt Mandal                0.033333
+Mauli Bhakt Sangh                   0.033333
+Bhakt Dindi Mahasangh               0.033333
+Tukaram Maharaj Seva Mandal         0.033333
+Swami Samarth Group                 0.033333
+Tulsi Bhakt Parivar                 0.033333
+Shree Vitthal Dindi Sevak Mandal    0.033333
+Bhakt Unity Team                    0.033333
+Gavran Annadan Mandal               0.033333
+Shree Bhakti Parivar                0.033333
+Path Seva Team                      0.033333
+Palkhi Seva Samiti                  0.033333
+Vithu Mauli Seva Patas              0.033333
+Haripath Seva Mandal                0.033333
+Dindi Food Seva                     0.033333
+Sant Tukaram Food Trust             0.033333
+Shree Palkhi Jal Seva               0.033333
+Sai Bhakt Group                     0.033333
+Gavran Mahila Mandal                0.033333
+Sant Charan Mandal                  0.033333
+Varkari Dindi Seva Samiti           0.033333
+Dindi Youth Mandal                  0.033333
+Bhakti Yatra Seva Mandal            0.033333
+Morya Bhakt Mandal                  0.033333
+Bhakti Annadan Seva                 0.033333
+Bhakt Food Sewa Samiti              0.033333
+Vithoba Palkhi Seva                 0.033333
+Name: proportion, dtype: float64
+
+role:
+role
+Medical Support       0.033333
+Water Distribution    0.033333
+Food Service          0.033333
+Medical Aid           0.033333
+Snacks Team           0.033333
+Crowd Control         0.033333
+Food Serving          0.033333
+Medical Assistance    0.033333
+Water & Snacks        0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---

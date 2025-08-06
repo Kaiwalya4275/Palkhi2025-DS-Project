@@ -1,0 +1,157 @@
+--- MISSING VALUES ---
+No missing values.
+
+
+--- RARE CATEGORICAL VALUES (<5%) ---
+
+report_id:
+report_id
+ENV001    0.033333
+ENV002    0.033333
+ENV003    0.033333
+ENV004    0.033333
+ENV005    0.033333
+ENV006    0.033333
+ENV007    0.033333
+ENV008    0.033333
+ENV009    0.033333
+ENV010    0.033333
+ENV011    0.033333
+ENV012    0.033333
+ENV013    0.033333
+ENV014    0.033333
+ENV015    0.033333
+ENV016    0.033333
+ENV017    0.033333
+ENV018    0.033333
+ENV019    0.033333
+ENV020    0.033333
+ENV021    0.033333
+ENV022    0.033333
+ENV023    0.033333
+ENV024    0.033333
+ENV025    0.033333
+ENV026    0.033333
+ENV027    0.033333
+ENV028    0.033333
+ENV029    0.033333
+ENV030    0.033333
+Name: proportion, dtype: float64
+
+village:
+village
+Akurdi                      0.033333
+Nigdi (Dehu stretch)        0.033333
+Pune (Nana Peth)            0.033333
+Dehu                        0.033333
+Hadapsar                    0.033333
+Loni Kalbhor                0.033333
+Yavat (Valhe region)        0.033333
+Varvand                     0.033333
+Baramati                    0.033333
+Indapur                     0.033333
+Indapur (Golringan)         0.033333
+Pune (Shivajinagar)         0.033333
+Akluj                       0.033333
+Akluj (Mane Vidyalaya)      0.033333
+Velapur                     0.033333
+Natepute                    0.033333
+Shegaon (Bhandishegaon)     0.033333
+Pirachi Kuroli              0.033333
+Borgaon (Shripur)           0.033333
+Anthurne                    0.033333
+Nimgaon Ketki               0.033333
+Indapur (second halt)       0.033333
+Bhandishegaon               0.033333
+Pandharpur Road Stretch     0.033333
+Pandharpur Inner            0.033333
+Pandharpur Temple           0.033333
+Pandharpur (Market area)    0.033333
+Pandharpur (Crowd area)     0.033333
+Name: proportion, dtype: float64
+
+date:
+date
+2025-06-18    0.033333
+2025-06-25    0.033333
+2025-06-23    0.033333
+2025-06-22    0.033333
+2025-06-21    0.033333
+2025-06-24    0.033333
+2025-07-03    0.033333
+2025-06-28    0.033333
+Name: proportion, dtype: float64
+
+cleanup_agency:
+cleanup_agency
+Dehu Eco Team                0.033333
+PCMC Volunteers              0.033333
+Local Youth Group            0.033333
+Pune MC                      0.033333
+Pune Civic Team              0.033333
+PMC & NGO volunteers         0.033333
+Local Mandal                 0.033333
+Grassroots Force             0.033333
+Baramati Eco Team            0.033333
+Baramati Civic               0.033333
+Indapur Volunteers           0.033333
+Youth Mandal                 0.033333
+Akluj Clean Squad            0.033333
+School Volunteers            0.033333
+Natepute Civic               0.033333
+Velapur Eco Force            0.033333
+Shegaon Mandal               0.033333
+Wakhari Volunteers           0.033333
+Local Volunteers             0.033333
+Borgaon Eco Group            0.033333
+Anthurne Mandal              0.033333
+Nimgaon Volunteers           0.033333
+Indapur Women Mandal         0.033333
+Bhandishegaon Civic          0.033333
+Wakhari Cleaners             0.033333
+Pandharpur Volunteers        0.033333
+Nirmal Pandharpur Mission    0.033333
+Temple Staff & Volunteers    0.033333
+City MC                      0.033333
+City Civic Force             0.033333
+Name: proportion, dtype: float64
+
+remarks:
+remarks
+Initial clean-up drive     0.033333
+High pedestrian zone       0.033333
+Street cleanup             0.033333
+Plastic ban enforced       0.033333
+Construction disruption    0.033333
+School ground camp         0.033333
+Temple yard cleanup        0.033333
+Traditional prayer site    0.033333
+Informal settlements       0.033333
+Busy city halt             0.033333
+Midday cleanup             0.033333
+Suburban stretch           0.033333
+Main ritual area           0.033333
+Student-led cleaning       0.033333
+Camp ground area           0.033333
+Rural stretch              0.033333
+Halting areas tidy         0.033333
+Stage cleaning             0.033333
+Minor litter               0.033333
+Food service zone          0.033333
+Traditional site           0.033333
+Shady zone cleaned         0.033333
+Community cleanup          0.033333
+Pre-final arrival          0.033333
+Final push                 0.033333
+Main temple road           0.033333
+Paduka Aarti prep          0.033333
+Post-Ashadhi cleanup       0.033333
+Overflow managed           0.033333
+Spotless final cleanup     0.033333
+Name: proportion, dtype: float64
+
+--- NUMERICAL OUTLIERS (IQR METHOD) ---
+
+waste_collected_kg: 3 outliers
+
+enforcement_score: 1 outliers

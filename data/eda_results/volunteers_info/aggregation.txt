@@ -1,0 +1,207 @@
+
+--- Group by volunteer_id (Top 5) ---
+volunteer_id
+V001    1
+V002    1
+V003    1
+V004    1
+V005    1
+Name: count, dtype: int64
+
+--- Group by volunteer_name (Top 5) ---
+volunteer_name
+Swapnil Gawde     1
+Sujata Thorat     1
+Ajinkya Ingle     1
+Mayuri Patil      1
+Vijay Salunkhe    1
+Name: count, dtype: int64
+
+--- Group by gender (Top 5) ---
+gender
+Male      15
+Female    15
+Name: count, dtype: int64
+
+--- Group by village_name (Top 5) ---
+village_name
+Kunjirwadi    3
+Theur         3
+Yavat         3
+Daund         3
+Varvand       3
+Name: count, dtype: int64
+
+--- Group by team_name (Top 5) ---
+team_name
+Sant Seva Bhakt Mandal    1
+Narayani Mahila Group     1
+Jai Malhar Mandal         1
+Varkari Bhakt Mandal      1
+Mauli Bhakt Sangh         1
+Name: count, dtype: int64
+
+--- Group by role (Top 5) ---
+role
+Food Distribution    6
+Security             6
+Logistics            3
+Water Management     2
+Health Assistance    2
+Name: count, dtype: int64
+
+--- Group by start_date (Top 5) ---
+start_date
+2025-06-20    9
+2025-06-21    8
+2025-06-22    6
+2025-06-23    4
+2025-06-24    3
+Name: count, dtype: int64
+
+--- Group by end_date (Top 5) ---
+end_date
+2025-06-25    10
+2025-06-26     9
+2025-06-24     4
+2025-06-23     4
+2025-06-22     3
+Name: count, dtype: int64
+
+--- Mean of age by volunteer_id (Top 5) ---
+volunteer_id
+V007    32.0
+V017    31.0
+V029    31.0
+V025    30.0
+V011    30.0
+Name: age, dtype: float64
+
+--- Mean of contact_number by volunteer_id (Top 5) ---
+volunteer_id
+V028    9.987654e+09
+V002    9.876543e+09
+V012    9.876543e+09
+V021    9.823457e+09
+V010    9.789654e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by volunteer_name (Top 5) ---
+volunteer_name
+Rahul Bhosale      32.0
+Pravin Kadam       31.0
+Satish Kulkarni    31.0
+Vishal Ghadge      30.0
+Ashish Thorat      30.0
+Name: age, dtype: float64
+
+--- Mean of contact_number by volunteer_name (Top 5) ---
+volunteer_name
+Seema Gavhane    9.987654e+09
+Sujata Thorat    9.876543e+09
+Komal Landge     9.876543e+09
+Tejas Zope       9.823457e+09
+Neha Wani        9.789654e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by gender (Top 5) ---
+gender
+Male      27.000000
+Female    25.466667
+Name: age, dtype: float64
+
+--- Mean of contact_number by gender (Top 5) ---
+gender
+Female    9.527139e+09
+Male      9.375855e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by village_name (Top 5) ---
+village_name
+Baramati    30.666667
+Akluj       26.666667
+Varvand     26.666667
+Indapur     26.333333
+Theur       26.000000
+Name: age, dtype: float64
+
+--- Mean of contact_number by village_name (Top 5) ---
+village_name
+Akluj         9.736469e+09
+Indapur       9.729225e+09
+Theur         9.699588e+09
+Pandharpur    9.508930e+09
+Baramati      9.474903e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by team_name (Top 5) ---
+team_name
+Tukaram Maharaj Seva Mandal    32.0
+Bhakt Food Sewa Samiti         31.0
+Haripath Seva Mandal           31.0
+Dindi Youth Mandal             30.0
+Bhakt Unity Team               30.0
+Name: age, dtype: float64
+
+--- Mean of contact_number by team_name (Top 5) ---
+team_name
+Bhakti Annadan Seva                 9.987654e+09
+Narayani Mahila Group               9.876543e+09
+Gavran Annadan Mandal               9.876543e+09
+Sai Bhakt Group                     9.823457e+09
+Shree Vitthal Dindi Sevak Mandal    9.789654e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by role (Top 5) ---
+role
+Security            28.333333
+Water Management    28.000000
+Logistics           27.666667
+Food Serving        27.000000
+Snacks Team         27.000000
+Name: age, dtype: float64
+
+--- Mean of contact_number by role (Top 5) ---
+role
+Food Service          9.876543e+09
+Water Distribution    9.789654e+09
+Medical Assistance    9.765432e+09
+Water Management      9.688889e+09
+Water Supply          9.638890e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by start_date (Top 5) ---
+start_date
+2025-06-22    28.666667
+2025-06-21    26.250000
+2025-06-24    26.000000
+2025-06-20    25.444444
+2025-06-23    24.500000
+Name: age, dtype: float64
+
+--- Mean of contact_number by start_date (Top 5) ---
+start_date
+2025-06-23    9.716049e+09
+2025-06-24    9.500856e+09
+2025-06-21    9.445245e+09
+2025-06-22    9.377819e+09
+2025-06-20    9.372140e+09
+Name: contact_number, dtype: float64
+
+--- Mean of age by end_date (Top 5) ---
+end_date
+2025-06-22    27.333333
+2025-06-24    27.000000
+2025-06-25    26.600000
+2025-06-26    25.666667
+2025-06-23    25.000000
+Name: age, dtype: float64
+
+--- Mean of contact_number by end_date (Top 5) ---
+end_date
+2025-06-26    9.540941e+09
+2025-06-25    9.534454e+09
+2025-06-23    9.409506e+09
+2025-06-24    9.331652e+09
+2025-06-22    9.122420e+09
+Name: contact_number, dtype: float64

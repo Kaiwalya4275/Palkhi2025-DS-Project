@@ -1,0 +1,31 @@
+distribution_id,team_name,village_name,distribution_type,quantity,unit,start_time,end_time,responsible_person,contact_number,duration_minutes,is_bulk_distribution,distribution_category,standardized_quantity_liters,is_food_shortage_risk
+FD001,Annapurna Seva Mandal,Kunjirwadi,Food,1800,kg,06:00,08:30,Ramesh Jadhav,9876543210,150,true,Community,1800,true
+FD002,Jeevan Jal Team,Theur,Water,3500,liters,07:15,08:45,Seema Patil,9823456781,90,true,Emergency,3500,false
+FD003,Nutritional Aid Unit,Yavat,Food,1200,kg,05:45,07:30,Sunil Pawar,9812345679,105,false,NGO,1200,true
+FD004,Pure Water Force,Daund,Water,2800,liters,06:30,08:00,Meera Kulkarni,9801234567,90,true,Govt,2800,false
+FD005,Sant Dnyaneshwar Bhojan Seva,Theur,Food,2000,kg,07:00,09:15,Ajay Gaikwad,9898989898,135,true,Community,2000,true
+FD006,JalRaksha Group,Baramati,Water,2200,liters,06:00,07:20,Vaishali Shinde,9888877666,80,false,Emergency,2200,false
+FD007,Aapla Annadata,Uruli Kanchan,Food,1700,kg,05:30,07:45,Milind Khedekar,9876543289,135,true,NGO,1700,true
+FD008,Sparsh Water Relief,Natepute,Water,3100,liters,07:00,08:40,Anjali Mane,9823445566,100,true,Govt,3100,false
+FD009,Mahatma Seva Trust,Varvand,Food,1550,kg,06:15,08:00,Rahul Bhosale,9811223344,105,false,Community,1550,false
+FD010,Sant Tukaram Water Sahayog,Dehu,Water,2600,liters,06:30,07:50,Neelima Lokhande,9800980098,80,true,Emergency,2600,true
+FD011,Annapoorna Annadan Pathak,Indapur,Food,2300,kg,06:45,09:00,Kiran Desai,9876501234,135,true,NGO,2300,false
+FD012,Mauli Bhojan Vitaran,Akluj,Food,1900,kg,06:00,08:00,Shraddha More,9865432100,120,false,Govt,1900,false
+FD013,Pavitra Jal Prakalp,Loni Kalbhor,Water,2400,liters,07:10,08:30,Ravi Patil,9843210987,80,true,Community,2400,false
+FD014,Prasad Bhojan Yojana,Nimgaon Ketki,Food,1750,kg,05:50,08:00,Rekha Ghorpade,9809809809,130,true,Emergency,1750,true
+FD015,Vitthal Jal Sanchay,Borgaon,Water,3000,liters,06:15,07:45,Arvind Kale,9823456712,90,false,NGO,3000,true
+FD016,Naivedyam Bhojan Seva,Pirachi Kuroli,Food,2100,kg,06:20,08:30,Chitra Shinde,9811112222,130,true,Community,2100,false
+FD017,Jal Dindi Force,Wakhari,Water,2700,liters,06:00,07:20,Nilesh Pawar,9801122334,80,false,Emergency,2700,true
+FD018,Bhakta Annachhatra Mandal,Shegaon,Food,1850,kg,06:30,08:15,Tejas Rathod,9833344556,105,true,Govt,1850,true
+FD019,Seva Bhakti Water Samiti,Anthurne,Water,2550,liters,07:00,08:20,Vaibhav Kumbhar,9821010101,80,false,Community,2550,false
+FD020,Dindikar Annadan Seva,Velapur,Food,1950,kg,05:40,07:50,Savita Pawar,9876500011,130,true,Emergency,1950,true
+FD021,Triveni Jal Kendra,Kunjirwadi,Water,3200,liters,06:10,07:50,Omkar Lokhande,9812346470,100,true,NGO,3200,false
+FD022,Mahaprasad Yatra Mandal,Theur,Food,2250,kg,06:30,08:45,Meenal Rane,9809876123,135,true,Community,2250,true
+FD023,Tulsi Jal Vitaran Yojana,Yavat,Water,2900,liters,07:00,08:30,Sachin Deshmukh,9876503345,90,false,Govt,2900,false
+FD024,Shakti Food Relief,Daund,Food,2050,kg,06:45,08:45,Kalpana More,9823456722,120,true,Emergency,2050,true
+FD025,Krupa Jal Samarthan Mandal,Varvand,Water,2500,liters,06:00,07:30,Rohit Pawar,9898765430,90,false,Community,2500,false
+FD026,Moksha Bhojan Pathak,Baramati,Food,2150,kg,06:15,08:30,Ritika Shinde,9876502001,135,true,NGO,2150,true
+FD027,Sanwad Jal Seva,Indapur,Water,2300,liters,05:50,07:10,Aarti Ghorpade,9867123090,80,false,Emergency,2300,false
+FD028,Divya Annadaan Mandal,Akluj,Food,2450,kg,06:30,08:45,Shubham Desai,9843210981,135,true,Community,2450,false
+FD029,Saheb Jal Seva,Natepute,Water,2850,liters,06:00,07:30,Tejas Mane,9823012345,90,true,Govt,2850,true
+FD030,Samarpan Bhojan Yojana,Nimgaon Ketki,Food,2350,kg,05:45,08:00,Ritika Kamble,9811234567,135,false,Emergency,2350,true

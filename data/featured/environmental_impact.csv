@@ -1,0 +1,31 @@
+report_id,village,date,waste_collected_kg,cleanup_agency,recyclables_separated,plastic_banned,enforcement_score,remarks,is_strict_zone,is_recycling_practiced,waste_category
+ENV001,Dehu,2025-06-18,500,Dehu Eco Team,Yes,Yes,9,Initial clean-up drive,1,1,High
+ENV002,Akurdi,2025-06-19,650,PCMC Volunteers,Yes,Yes,8,High pedestrian zone,1,1,High
+ENV003,Nigdi (Dehu stretch),2025-06-19,600,Local Youth Group,Yes,Yes,8,Street cleanup,1,1,High
+ENV004,Pune (Nana Peth),2025-06-20,800,Pune MC,Yes,Yes,9,Plastic ban enforced,1,1,High
+ENV005,Pune (Shivajinagar),2025-06-20,700,Pune Civic Team,Yes,No,7,Construction disruption,0,1,High
+ENV006,Hadapsar,2025-06-21,550,PMC & NGO volunteers,Yes,Yes,8,School ground camp,1,1,High
+ENV007,Loni Kalbhor,2025-06-22,450,Local Mandal,Yes,Yes,8,Temple yard cleanup,1,1,High
+ENV008,Yavat (Valhe region),2025-06-23,500,Grassroots Force,Yes,Yes,7,Traditional prayer site,0,1,High
+ENV009,Varvand,2025-06-24,600,Baramati Eco Team,Yes,No,6,Informal settlements,0,1,High
+ENV010,Baramati,2025-06-25,900,Baramati Civic,Yes,Yes,8,Busy city halt,1,1,High
+ENV011,Indapur,2025-06-26,750,Indapur Volunteers,Yes,Yes,8,Midday cleanup,1,1,High
+ENV012,Indapur (Golringan),2025-06-26,700,Youth Mandal,Yes,Yes,8,Suburban stretch,1,1,High
+ENV013,Akluj,2025-06-27,850,Akluj Clean Squad,Yes,Yes,9,Main ritual area,1,1,High
+ENV014,Akluj (Mane Vidyalaya),2025-06-27,800,School Volunteers,Yes,Yes,9,Student-led cleaning,1,1,High
+ENV015,Natepute,2025-06-28,650,Natepute Civic,Yes,Yes,8,Camp ground area,1,1,High
+ENV016,Velapur,2025-06-29,700,Velapur Eco Force,Yes,Yes,8,Rural stretch,1,1,High
+ENV017,Shegaon (Bhandishegaon),2025-06-29,600,Shegaon Mandal,Yes,Yes,8,Halting areas tidy,1,1,High
+ENV018,Wakhari,2025-07-03,900,Wakhari Volunteers,Yes,Yes,9,Stage cleaning,1,1,High
+ENV019,Pirachi Kuroli,2025-07-02,550,Local Volunteers,Yes,Yes,7,Minor litter,0,1,High
+ENV020,Borgaon (Shripur),2025-07-02,650,Borgaon Eco Group,Yes,Yes,8,Food service zone,1,1,High
+ENV021,Anthurne,2025-07-04,500,Anthurne Mandal,Yes,Yes,8,Traditional site,1,1,High
+ENV022,Nimgaon Ketki,2025-07-04,600,Nimgaon Volunteers,Yes,Yes,8,Shady zone cleaned,1,1,High
+ENV023,Indapur (second halt),2025-07-04,700,Indapur Women Mandal,Yes,Yes,8,Community cleanup,1,1,High
+ENV024,Bhandishegaon,2025-07-05,1000,Bhandishegaon Civic,Yes,Yes,9,Pre-final arrival,1,1,High
+ENV025,Wakhari,2025-07-05,1100,Wakhari Cleaners,Yes,Yes,9,Final push,1,1,High
+ENV026,Pandharpur Road Stretch,2025-07-05,1200,Pandharpur Volunteers,Yes,Yes,10,Main temple road,1,1,High
+ENV027,Pandharpur Inner,2025-07-05,1300,Nirmal Pandharpur Mission,Yes,Yes,10,Paduka Aarti prep,1,1,High
+ENV028,Pandharpur Temple,2025-07-06,1500,Temple Staff & Volunteers,Yes,Yes,10,Post-Ashadhi cleanup,1,1,High
+ENV029,Pandharpur (Market area),2025-07-06,1400,City MC,Yes,Yes,9,Overflow managed,1,1,High
+ENV030,Pandharpur (Crowd area),2025-07-06,1600,City Civic Force,Yes,Yes,10,Spotless final cleanup,1,1,High

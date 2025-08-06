@@ -1,0 +1,31 @@
+center_id,location,incharge_name,contact_number,medical_staff_count,ambulance_available,medicine_stock_level,open_hours,avg_patients_per_day,emergency_services,is_fully_equipped,open_hour_start,shift_duration,is_high_demand_center
+MS001,Dehu,Dr. Amol K.,9856012345,6,Yes,High,06:0022:00,120,Yes,1,6,16,1
+MS002,Pune,Dr. Reena Joshi,9823456789,10,Yes,High,24 Hours,200,Yes,1,0,24,1
+MS003,Hadapsar,Dr. Rajesh B.,9767890123,8,Yes,Medium,06:0022:00,160,Yes,1,6,16,1
+MS004,Loni Kalbhor,Dr. Pooja M.,9798765432,5,No,Medium,08:0020:00,100,No,0,8,12,0
+MS005,Uruli Kanchan,Dr. Sanjay N.,9745612390,4,No,Low,08:0018:00,80,No,0,8,10,0
+MS006,Varvand,Dr. Smita P.,9734567890,5,Yes,Medium,06:0022:00,90,Yes,1,6,16,0
+MS007,Patas,Dr. Nikhil D.,9876543210,6,Yes,High,24 Hours,150,Yes,1,0,24,1
+MS008,Baramati,Dr. Shweta J.,9701234567,7,Yes,High,06:0022:00,130,Yes,1,6,16,1
+MS009,Indapur,Dr. Anand G.,9812345678,5,Yes,Medium,06:0022:00,110,Yes,1,6,16,1
+MS010,Akluj,Dr. Manisha R.,9789012345,6,Yes,High,24 Hours,140,Yes,1,0,24,1
+MS011,Pandharpur,Dr. Vikram S.,9890123456,10,Yes,High,24 Hours,250,Yes,1,0,24,1
+MS012,Dehu,Dr. Meenal T.,9761234567,3,No,Low,08:0018:00,60,No,0,8,10,0
+MS013,Pune,Dr. Kiran D.,9843210987,9,Yes,High,06:0022:00,180,Yes,1,6,16,1
+MS014,Hadapsar,Dr. Akshay P.,9723456109,6,Yes,Medium,08:0020:00,100,Yes,1,8,12,0
+MS015,Loni Kalbhor,Dr. Vaidehi S.,9790123456,4,No,Low,06:0014:00,70,No,0,6,8,0
+MS016,Uruli Kanchan,Dr. Neeraj M.,9734561230,5,Yes,Medium,06:0022:00,95,Yes,1,6,16,0
+MS017,Varvand,Dr. Preeti N.,9856741230,4,No,Low,08:0018:00,65,No,0,8,10,0
+MS018,Patas,Dr. Yogesh R.,9801122334,6,Yes,High,24 Hours,140,Yes,1,0,24,1
+MS019,Baramati,Dr. Nisha K.,9743210987,7,Yes,High,06:0022:00,125,Yes,1,6,16,1
+MS020,Indapur,Dr. Mahesh C.,9723456780,5,Yes,Medium,06:0022:00,115,Yes,1,6,16,1
+MS021,Akluj,Dr. Sangeeta W.,9812349087,6,Yes,High,24 Hours,130,Yes,1,0,24,1
+MS022,Pandharpur,Dr. Amit G.,9809123456,11,Yes,High,24 Hours,270,Yes,1,0,24,1
+MS023,Dehu,Dr. Tanvi Z.,9764512309,3,No,Low,08:0018:00,55,No,0,8,10,0
+MS024,Pune,Dr. Harish M.,9734567890,9,Yes,High,06:0022:00,170,Yes,1,6,16,1
+MS025,Hadapsar,Dr. Snehal S.,9856749081,7,Yes,Medium,08:0020:00,120,Yes,1,8,12,1
+MS026,Loni Kalbhor,Dr. Bhushan P.,9745612390,4,No,Low,06:0014:00,75,No,0,6,8,0
+MS027,Uruli Kanchan,Dr. Divya R.,9809123456,5,Yes,Medium,06:0022:00,100,Yes,1,6,16,0
+MS028,Varvand,Dr. Ashwin J.,9898012345,4,No,Low,08:0018:00,60,No,0,8,10,0
+MS029,Patas,Dr. Karishma D.,9798765432,6,Yes,High,24 Hours,135,Yes,1,0,24,1
+MS030,Pandharpur,Dr. Deepak B.,9890011223,12,Yes,High,24 Hours,260,Yes,1,0,24,1

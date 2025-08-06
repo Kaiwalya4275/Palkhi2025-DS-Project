@@ -1,0 +1,3 @@
+Encoded column: village_name
+Encoded column: distribution_type
+Encoded column: unit

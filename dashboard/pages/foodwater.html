@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Food & Water Distribution | Palkhi 2025</title>
+  <link rel="stylesheet" href="../css/dindis.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header class="page-header">
+    <h1> Food & Water Distribution Dashboard</h1>
+  </header>
+
+  <main class="main-content">
+    <section class="data-table-section">
+      <h2>Distribution Records Table</h2>
+      <div class="table-container">
+        <table id="foodwater-table">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="charts-section">
+      <h2>Visual Insights</h2>
+      <div class="chart-container"><canvas id="bulkChart"></canvas></div>
+      <div class="chart-container"><canvas id="quantityBarChart"></canvas></div>
+      <div class="chart-container"><canvas id="durationLineChart"></canvas></div>
+      <div class="chart-container"><canvas id="shortageRadarChart"></canvas></div>
+    </section>
+  </main>
+
+  <footer class="page-footer">
+    <p>&copy; 2025 Palkhi Dashboard | Designed with  by Kaiwalya</p>
+  </footer>
+
+  <script src="../js/foodwater.js"></script>
+</body>
+</html>

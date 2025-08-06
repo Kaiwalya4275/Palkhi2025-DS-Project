@@ -1,0 +1,31 @@
+dindi_id,dindi_name,origin_village,total_participants,age_group,gender_ratio,musical_instruments,years_participated,group_leader,contact_number,participants_per_year,is_large_dindi,age_group_type,gender_bias
+D001,Sant Tukaram Mauli Dindi,Dehu,320,Adult,60:40:00,Mridang,15,Vishwanath Jadhav,9876501234,21.33333333,1,unknown,unknown
+D002,Shree Kunjirwadi Bhakt Dindi,Kunjirwadi,295,Mixed,55:45:00,Dholki,10,Ashok Shinde,9823456780,29.5,1,unknown,unknown
+D003,Theur Bhajan Mandal Dindi,Theur,310,Youth,50:50:00,Lezim,7,Meera Pawar,9812345671,44.28571429,1,unknown,unknown
+D004,Vitthal Mitra Mandal Dindi,Pune,350,Adult,62:38:00,Halgi,12,Sachin Patil,9801122330,29.16666667,1,unknown,unknown
+D005,Hadapsar Tukaram Bhakta Dindi,Hadapsar,280,Senior,45:55:00,Taal,20,Ramani Bhagat,9834567891,14,1,unknown,unknown
+D006,Loni Kalbhor Tukaram Dindi,Loni Kalbhor,265,Mixed,50:50:00,Lezim,6,Ramesh Pawar,9856781235,44.16666667,1,unknown,unknown
+D007,Uruli Kanchan Sant Dindi,Uruli Kanchan,275,Adult,57:43:00,Dhol,9,Priyanka Shinde,9887654322,30.55555556,1,unknown,unknown
+D008,Yavat Tukaram Seva Dindi,Yavat,290,Youth,48:52:00,Mridang,3,Vikas Ghorpade,9865432110,96.66666667,1,unknown,unknown
+D009,Varvand Bhajan Mandali Dindi,Varvand,300,Adult,52:48:00,Halgi,5,Ritika Bhosale,9822177890,60,1,unknown,unknown
+D010,Baramati Varkari Sangh Dindi,Baramati,330,Senior,60:40:00,DholTasha,18,Sunil Deshmukh,9811178850,18.33333333,1,unknown,unknown
+D011,Indapur Tukaram Maharaj Dindi,Indapur,310,Mixed,53:47:00,Taal,14,Kanchan Kale,9798978978,22.14285714,1,unknown,unknown
+D012,Akluj Tukaram Bhakt Niwas Dindi,Akluj,320,Adult,58:42:00,Lezim,11,Shivaji Gaikwad,9789898988,29.09090909,1,unknown,unknown
+D013,Natepute Sant Bhakti Dindi,Natepute,305,Mixed,50:50:00,Dholki,20,Namdev Rathod,9767676766,15.25,1,unknown,unknown
+D014,Nimgaon Ketki Dindi Mandal,Nimgaon Ketki,285,Adult,55:45:00,Lezim,4,Sudhir Lokhande,9898989890,71.25,1,unknown,unknown
+D015,Borgaon Warkari Pathak Dindi,Borgaon,275,Youth,53:47:00,Lezim,7,Nitin Pal,9876543280,39.28571429,1,unknown,unknown
+D016,Shegaon Vithoba Bhakt Dindi,Shegaon,295,Adult,56:44:00,Taal,9,Ravi Jadhav,9867123345,32.77777778,1,unknown,unknown
+D017,Wakhari Bhajan Seva Dindi,Wakhari,310,Senior,45:55:00,Mridang,13,Preeti Shinde,9743210981,23.84615385,1,unknown,unknown
+D018,Pirachi Kuroli Tukaram Dindi,Pirachi Kuroli,260,Mixed,50:50:00,Lezim,5,Sanjay Kulkarni,9734567889,52,1,unknown,unknown
+D019,Anthurne Varkari Bhakti Dindi,Anthurne,300,Adult,58:42:00,Dhol,8,Geeta More,9790123451,37.5,1,unknown,unknown
+D020,Velapur Dindi Seva Mandal,Velapur,280,Youth,48:52:00,Mridang,6,Amol Deshmukh,9876503345,46.66666667,1,unknown,unknown
+D021,Shree Mauli Dindi Kunjirwadi,Kunjirwadi,295,Mixed,55:45:00,Lezim,4,Deepa Kale,9812346470,73.75,1,unknown,unknown
+D022,Theur Vithoba Dindi Pathak,Theur,285,Senior,50:50:00,Halgi,10,Sunita Rane,9809876123,28.5,1,unknown,unknown
+D023,Yavat Tukaram Bhajan Dindi,Yavat,300,Adult,52:48:00,Lezim,12,Anand Patil,9876500011,25,1,unknown,unknown
+D024,Daund Bhakti Prem Dindi,Daund,310,Youth,50:50:00,Dholki,7,Ramesh More,9823456722,44.28571429,1,unknown,unknown
+D025,Varvand Warkari Bhajan Mandal,Varvand,295,Adult,53:47:00,Taal,9,Maya Pawar,9898765430,32.77777778,1,unknown,unknown
+D026,Baramati Sant Tukaram Dindi,Baramati,330,Senior,60:40:00,Mridang,15,Rahul Shinde,9876502001,22,1,unknown,unknown
+D027,Indapur Bhakti Seva Dindi,Indapur,320,Mixed,55:45:00,Lezim,8,Sneha Ghorpade,9867123090,40,1,unknown,unknown
+D028,Akluj Bhajan Mandal Dindi,Akluj,310,Adult,58:42:00,DholTasha,11,Shubham Desai,9843210981,28.18181818,1,unknown,unknown
+D029,Natepute Vithoba Prem Dindi,Natepute,305,Youth,50:50:00,Taal,6,Tejas Mane,9823012345,50.83333333,1,unknown,unknown
+D030,Nimgaon Tukaram Warkari Dindi,Nimgaon Ketki,300,Adult,53:47:00,Lezim,5,Ritika Kamble,9811234567,60,1,unknown,unknown

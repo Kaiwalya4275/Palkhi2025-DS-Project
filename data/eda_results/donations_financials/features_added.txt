@@ -1,0 +1,4 @@
+Extracted year, month, day from date
+Encoded column: donor_type
+Encoded column: expense_category
+Encoded column: mode_of_payment

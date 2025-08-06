@@ -1,0 +1,12 @@
+,route_id,origin,destination,distance_km,halt_duration_hrs,terrain_type,medical_camp,water_points,police_presence,traffic_control,estimated_palkhi_time
+count,30,30,30,30.0,30.0,30,30,30.0,30,30,30
+unique,30,21,21,,,4,1,,3,1,29
+top,R001,Dehu,Pune,,,Rural,Yes,,Medium,Yes,2025-06-29 16:00
+freq,1,3,3,,,19,30,,16,30,2
+mean,,,,19.866666666666667,2.566666666666667,,,2.1,,,
+std,,,,7.546331985592842,1.1198316786489595,,,0.7119666788018509,,,
+min,,,,10.0,1.0,,,1.0,,,
+25%,,,,13.5,2.0,,,2.0,,,
+50%,,,,19.0,2.25,,,2.0,,,
+75%,,,,24.75,3.0,,,2.0,,,
+max,,,,38.0,5.0,,,4.0,,,

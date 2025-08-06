@@ -1,0 +1,6 @@
+Transport_ID,Dindi_ID,Year,Vehicle_Type,Vehicle_Count,Total_Distance_km,Fuel_Used_Liters,Driver_Count,Support_Staff,Medical_Aid_Vehicles,Remarks
+101,1,2023,Truck,12,230,1800,12,24,2,Main luggage and equipment carriers
+102,1,2023,Tempo Traveller,6,230,1100,6,6,1,Devotee transport
+103,2,2023,Truck,10,230,1600,10,20,2,Logistics and food supplies
+104,3,2023,Buses,5,230,900,5,10,1,Volunteer transportation
+105,4,2023,Ambulance,2,120,300,2,4,2,Medical assistance

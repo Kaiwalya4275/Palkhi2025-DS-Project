@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Donations & Financials - Palkhi 2025</title>
+  <link rel="stylesheet" href="../css/dindis.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<header>
+  <h1>Donations & Financials Overview</h1>
+  <p class="subtitle">Tracking funds, expenses, and community support across villages</p>
+</header>
+
+<section class="table-container">
+  <h2>Donation Records</h2>
+  <table id="donationTable">
+    <thead>
+      <tr>
+        <th>Donation ID</th>
+        <th>Village</th>
+        <th>Date</th>
+        <th>Donor Type</th>
+        <th>Donor Name</th>
+        <th>Amount Received</th>
+        <th>Expense Category</th>
+        <th>Amount Spent</th>
+        <th>Payment Mode</th>
+        <th>Remarks</th>
+        <th>Net Balance</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</section>
+
+<section class="chart-box">
+  <canvas id="barChart" height="200"></canvas>
+</section>
+
+<section class="chart-box">
+  <canvas id="pieChart" height="200"></canvas>
+</section>
+
+<section class="chart-box">
+  <canvas id="lineChart" height="200"></canvas>
+</section>
+
+<section class="chart-box">
+  <canvas id="radarChart" height="200"></canvas>
+</section>
+
+<footer>
+  &copy; 2025 Palkhi Dashboard | Donations and Financials Analytics
+</footer>
+
+<script src="../js/donations.js"></script>
+</body>
+</html>
