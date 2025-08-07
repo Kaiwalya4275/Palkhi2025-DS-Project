@@ -1,10 +1,8 @@
-
-function scrollToSection(id) {
-  const section = document.getElementById(id);
-  if (section) {
-    section.scrollIntoView({ behavior: "smooth" });
+function scrollToSection(sectionId) {
+  const target = document.getElementById(sectionId);
+  if (target) {
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } else {
+    console.error(`Section "${sectionId}" not found`);
   }
 }
-
-
-console.log("Palkhi 2025 Dashboard Loaded ");

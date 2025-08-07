@@ -395,3 +395,11 @@ body {
 .footer-links a:hover {
   color: #bf360c;
 }
+
+
+
+.nav-link.active {
+  color: #ffcefe;
+  border-bottom: 2px solid #ff9dfc;
+  font-weight: 600;
+}
